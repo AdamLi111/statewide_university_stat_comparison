@@ -4,10 +4,12 @@ from urllib.request import urlopen, Request
 import re
 from geopy.geocoders import Nominatim
 import time
+import os
+import requests
+
 
 from matplotlib import pyplot as plt
 
-from utils import draw_radar_chart, compute_score
 import json
 
 def scrape_US():
@@ -16,7 +18,7 @@ def scrape_US():
     :return: a dictionary { university_name: tuition }
     '''
     data = {}
-    max_pages = 5  # Adjust if needed
+    max_pages = 10
 
     for page in range(1, max_pages + 1):
         url = f"https://www.collegesimply.com/colleges/search?sort=&place=&fr=&fm=tuition-in-state&lm=&years=4&gpa=&sat=&act=&admit=comp&field=&major=&radius=300&zip=&state=&size=&tuition-fees=&net-price=&page={page}&pp=/colleges/search"
@@ -42,10 +44,11 @@ def scrape_US():
             tuition_tag = h4_tag.find('span', class_='text-primary') if h4_tag else None
 
             if name_tag and tuition_tag:
-                name = name_tag.get_text(strip=True)
-                tuition = int(re.sub(r'[^0-9]', '', tuition_tag.get_text(strip=True)))
+                full_name = name_tag.get_text(strip=True)
+                name = full_name.split('Private')[
+                    0].strip() if 'Private' in full_name else full_name  # Extract university name
+                tuition = int(re.sub(r'[^0-9]', '', tuition_tag.get_text(strip=True)))  # Convert tuition to int
                 data[name] = tuition
-                print(f"{name}: {tuition}")
 
     print(f"\n✅ Finished scraping {len(data)} universities.\n")
     return data
@@ -68,58 +71,58 @@ def get_state(university_name):
         return None
 
 
+
 def get_rating(university_states):
-    '''
-    scrape the website and get the rating of the universities
-    :param university_states: states of the university, which will be part of the website's address
-    :return: the rating of universiteis in a dictionary
-    '''
-    ratings = []
-    uni_ratings = {}
-    missing_universities = []  # Track universities that return 404 errors
+    ratings = {}
+    missing_universities = []
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/98.0.4758.102 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Referer": "https://www.google.com/"
+    }
 
     for name, state in university_states.items():
-        name_cleaned = ("-".join(name.split(" "))).lower()
-        state_cleaned = ("-".join(state.split(" "))).lower()
+        name_cleaned = "-".join(name.lower().split())
+        state_cleaned = "-".join(state.lower().split())
         if "&" in state_cleaned:
             state_cleaned = "johnson-and-wales-university-providence"
         link = f"https://www.collegesimply.com/colleges/{state_cleaned}/{name_cleaned}/reviews/"
-
-        req = Request(link, headers={'User-Agent': 'Mozilla/5.0'})
         try:
-            html = urlopen(req)
-            bs = BeautifulSoup(html.read(), "html.parser")
-
-            # ✅ Find all rating spans
+            response = requests.get(link, headers=headers)
+            # Check if response status code is 200 (OK)
+            response.raise_for_status()
+            bs = BeautifulSoup(response.text, "html.parser")
             rating_spans = bs.select("div.col-md-6 span.avatar-title.rounded-circle")
-
-            # ✅ Extract ratings, or return "NA" if not found
-            ratings = [span.text.strip() for span in rating_spans] if rating_spans else ["NA"]
-            uni_ratings[name] = ratings
-
-            print(f"✅ Ratings for {name}: {ratings}")  # Debugging output
-
+            ratings[name] = [span.text.strip() for span in rating_spans] if rating_spans else ["NA"]
+            print(f"✅ Ratings for {name}: {ratings[name]}")
+        except requests.exceptions.HTTPError as http_err:
+            print(f"⚠️ Error fetching ratings for {name}: HTTP Error {http_err.response.status_code}")
+            ratings[name] = ["NA"]
+            missing_universities.append((name, link))
         except Exception as e:
             print(f"⚠️ Error fetching ratings for {name}: {e}")
-            uni_ratings[name] = ["NA"]  # Mark as NA if there's an error
-            missing_universities.append((name, link))  # Track universities with failed URLs
+            ratings[name] = ["NA"]
+            missing_universities.append((name, link))
 
-        time.sleep(1)  # Prevent rate-limiting
+        # Delay to prevent being rate-limited
+        time.sleep(1)
 
-        # Debug: Print universities that failed due to 404 errors
-        if missing_universities:
-            print("\n🚨 WARNING: The following universities returned 404 errors:")
-            for uni, url in missing_universities:
-                print(f"- {uni} → {url}")
+    if missing_universities:
+        print("\n🚨 WARNING: The following universities returned errors:")
+        for uni, url in missing_universities:
+            print(f"- {uni} → {url}")
+    return ratings
 
-    return uni_ratings
 
 def parse_ratings():
     '''
     parse the uni_ratings.json file and return it in a dictionary
     :return: a dictionary that contains all ratings data
     '''
-    with open('data/uni_ratings.json', 'r') as infile:
+    with open('uni_ratings_US.json', 'r') as infile:
         uni_ratings = json.load(infile)
     cleaned_ratings = {}
     for university, ratings in uni_ratings.items():
@@ -149,18 +152,55 @@ def get_edu_score(dct: dict):
         edu_score[k] = compute_score(v)
     return edu_score
 
-def get_states(tuition: dict):
+
+def get_states(tuition: dict, cache_file='data/univ_states.json'):
     '''
-    get the state that the university is in based on the university's name
-    :param tuition: tuition data, which contains all universities and their tuition
-    :return: a dictionary where the key is the university and the value is their corresponding state
+    Get or load states for universities. Saves progress to avoid repeating.
+    :param tuition: dictionary of {university: tuition}
+    :param cache_file: path to JSON file to load/save cached states
+    :return: dictionary {university: state}
     '''
-    university_states = {}
-    for university in tuition.keys():
-        state = get_state(university)
-        if state:
-            university_states[university] = state
-        time.sleep(1)  # Pause to prevent API rate limits
+    # Load from cache if exists
+    try:
+        with open(cache_file, 'r') as f:
+            university_states = json.load(f)
+    except FileNotFoundError:
+        university_states = {}
+
+    geolocator = Nominatim(user_agent="university_locator")
+
+    for university in tuition:
+        if university in university_states:
+            continue  # Skip already fetched
+
+        retries = 3
+        while retries > 0:
+            try:
+                location = geolocator.geocode(university + ", USA", timeout=10)
+                if location:
+                    state = location.address.split(",")[-3].strip()
+                    university_states[university] = state
+                    print(f"✅ Got state for {university}: {state}")
+                else:
+                    university_states[university] = "Unknown"
+                    print(f"❌ No result for {university}")
+                break
+            except Exception as e:
+                print(f"⚠️ Error fetching {university}: {e}")
+                retries -= 1
+                time.sleep(2)
+
+        # Save progress every 5 entries
+        if len(university_states) % 5 == 0:
+            with open(cache_file, 'w') as f:
+                json.dump(university_states, f, indent=2)
+
+        time.sleep(1)
+
+    # Final save
+    with open(cache_file, 'w') as f:
+        json.dump(university_states, f, indent=2)
+
     return university_states
 
 
@@ -228,20 +268,7 @@ def main():
     #us_data = scrape_US()
     ###########################################################################
 
-
-    uni_ratings = parse_ratings()
-
-    edu_score = get_edu_score(uni_ratings)
-    print(edu_score)
-
-    plot_linear_regression("data/tuition_data.json", "data/edu_scores.json")
-
-    draw_radar_chart("Harvard University", [10, 10, 10, 10, 10])
-    draw_radar_chart("Northeastern University", [8, 10, 7, 8, 9])
-    draw_radar_chart("Boston University", [9, 10, 10, 8, 10])
-
-
-
+    plot_linear_regression(tuition_file='tuition_US.json', edu_scores_file='parsed_ratings.json')
 
 if __name__ == "__main__":
     main()

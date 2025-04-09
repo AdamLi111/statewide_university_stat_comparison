@@ -1,0 +1,6971 @@
+{
+  "Harvard University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Stanford University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "University of Southern California": [
+    10,
+    10,
+    10,
+    9,
+    9
+  ],
+  "University of Miami": [
+    9,
+    10,
+    10,
+    9,
+    9
+  ],
+  "New York University": [
+    10,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Duke University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Vanderbilt University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Princeton University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Johns Hopkins University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Boston University": [
+    9,
+    10,
+    10,
+    8,
+    10
+  ],
+  "University of Pennsylvania": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Yale University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "University of Chicago": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Baylor University": [
+    8,
+    9,
+    7,
+    8,
+    3
+  ],
+  "Villanova University": [
+    9,
+    10,
+    9,
+    9,
+    9
+  ],
+  "Cornell University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Georgetown University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Northwestern University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Pepperdine University": [
+    8,
+    9,
+    7,
+    8,
+    4
+  ],
+  "University of Notre Dame": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "The University of Tampa": [
+    0
+  ],
+  "Emory University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Howard University": [
+    7,
+    8,
+    9,
+    6,
+    6
+  ],
+  "Carnegie Mellon University": [
+    10,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Syracuse University": [
+    8,
+    9,
+    8,
+    8,
+    3
+  ],
+  "Rice University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Boston College": [
+    9,
+    10,
+    9,
+    10,
+    10
+  ],
+  "Brown University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Savannah College of Art and Design": [
+    5,
+    7,
+    3,
+    5,
+    1
+  ],
+  "Massachusetts Institute of Technology": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "University of San Francisco": [
+    8,
+    9,
+    9,
+    8,
+    6
+  ],
+  "Northeastern University": [
+    8,
+    10,
+    7,
+    8,
+    9
+  ],
+  "Columbia University in the City of New York": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Loyola Marymount University": [
+    9,
+    10,
+    9,
+    9,
+    4
+  ],
+  "University of San Diego": [
+    0,
+    9,
+    8,
+    9,
+    0
+  ],
+  "Fordham University": [
+    8,
+    10,
+    8,
+    8,
+    5
+  ],
+  "George Washington University": [
+    9,
+    10,
+    9,
+    9,
+    7
+  ],
+  "Santa Clara University": [
+    9,
+    10,
+    10,
+    9,
+    6
+  ],
+  "Elon University": [
+    8,
+    7,
+    9,
+    9,
+    4
+  ],
+  "Drexel University": [
+    8,
+    9,
+    10,
+    8,
+    7
+  ],
+  "Spelman College": [
+    7,
+    7,
+    8,
+    6,
+    2
+  ],
+  "Brigham Young University Provo": [
+    8,
+    9,
+    6,
+    9,
+    9
+  ],
+  "Clark Atlanta University": [
+    3,
+    4,
+    4,
+    2,
+    1
+  ],
+  "Chapman University": [
+    9,
+    9,
+    9,
+    9,
+    6
+  ],
+  "Dartmouth College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Quinnipiac University": [
+    8,
+    7,
+    8,
+    8,
+    6
+  ],
+  "Loyola University Chicago": [
+    7,
+    8,
+    7,
+    8,
+    5
+  ],
+  "Bucknell University": [
+    9,
+    10,
+    10,
+    8,
+    9
+  ],
+  "Texas Christian University": [
+    8,
+    9,
+    8,
+    9,
+    8
+  ],
+  "DePaul University": [
+    7,
+    8,
+    6,
+    8,
+    7
+  ],
+  "Southern Methodist University": [
+    9,
+    10,
+    9,
+    9,
+    7
+  ],
+  "Tulane University": [
+    0
+  ],
+  "Mercer University": [
+    7,
+    9,
+    7,
+    7,
+    10
+  ],
+  "Tufts University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Davidson College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Nova Southeastern University": [
+    6,
+    7,
+    7,
+    6,
+    4
+  ],
+  "Morehouse College": [
+    0,
+    6,
+    7,
+    5,
+    0
+  ],
+  "Rhode Island School of Design": [
+    9,
+    10,
+    10,
+    7,
+    7
+  ],
+  "California Institute of Technology": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Emerson College": [
+    7,
+    10,
+    6,
+    7,
+    2
+  ],
+  "Belmont University": [
+    7,
+    7,
+    7,
+    7,
+    4
+  ],
+  "University of Denver": [
+    9,
+    9,
+    9,
+    9,
+    7
+  ],
+  "Colgate University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Lehigh University": [
+    9,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Pomona College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "University of Rochester": [
+    9,
+    10,
+    10,
+    9,
+    9
+  ],
+  "Washington University in St Louis": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Barnard College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "American University": [
+    9,
+    10,
+    9,
+    8,
+    7
+  ],
+  "Vassar College": [
+    10,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Wake Forest University": [
+    10,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Babson College": [
+    8,
+    10,
+    7,
+    9,
+    9
+  ],
+  "St John's University New York": [
+    0
+  ],
+  "Amherst College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Liberty University": [
+    0
+  ],
+  "Lafayette College": [
+    9,
+    10,
+    10,
+    9,
+    9
+  ],
+  "Hampton University": [
+    6,
+    6,
+    7,
+    5,
+    3
+  ],
+  "University of Dayton": [
+    8,
+    9,
+    6,
+    8,
+    8
+  ],
+  "Azusa Pacific University": [
+    7,
+    7,
+    7,
+    8,
+    9
+  ],
+  "Occidental College": [
+    9,
+    10,
+    10,
+    8,
+    7
+  ],
+  "Bentley University": [
+    8,
+    9,
+    8,
+    9,
+    6
+  ],
+  "Wingate University": [
+    5,
+    6,
+    5,
+    5,
+    7
+  ],
+  "University of Richmond": [
+    10,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Culinary Institute of America": [
+    0
+  ],
+  "Xavier University": [
+    7,
+    7,
+    8,
+    7,
+    7
+  ],
+  "Swarthmore College": [
+    10,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Rensselaer Polytechnic Institute": [
+    8,
+    10,
+    8,
+    8,
+    9
+  ],
+  "Butler University": [
+    8,
+    8,
+    8,
+    8,
+    5
+  ],
+  "The Juilliard School": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Barry University": [
+    0,
+    3,
+    7,
+    4,
+    0
+  ],
+  "Marquette University": [
+    7,
+    8,
+    7,
+    8,
+    8
+  ],
+  "Jacksonville University": [
+    6,
+    8,
+    6,
+    6,
+    8
+  ],
+  "Pace University New York": [
+    6,
+    7,
+    5,
+    7,
+    4
+  ],
+  "Embry Riddle Aeronautical University Daytona Beach": [
+    7,
+    8,
+    6,
+    7,
+    3
+  ],
+  "Berry College": [
+    7,
+    8,
+    8,
+    5,
+    8
+  ],
+  "Wheaton College": [
+    0
+  ],
+  "Brandeis University": [
+    9,
+    10,
+    9,
+    8,
+    7
+  ],
+  "Hofstra University": [
+    8,
+    9,
+    8,
+    7,
+    6
+  ],
+  "Flagler College St Augustine": [
+    5,
+    5,
+    4,
+    6,
+    1
+  ],
+  "University of Dallas": [
+    8,
+    9,
+    8,
+    7,
+    8
+  ],
+  "Florida Institute of Technology": [
+    7,
+    8,
+    6,
+    6,
+    4
+  ],
+  "University of the Pacific": [
+    8,
+    8,
+    8,
+    8,
+    9
+  ],
+  "Seton Hall University": [
+    7,
+    8,
+    6,
+    8,
+    7
+  ],
+  "Abilene Christian University": [
+    6,
+    7,
+    5,
+    6,
+    6
+  ],
+  "Trinity University": [
+    9,
+    10,
+    10,
+    8,
+    10
+  ],
+  "Williams College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Case Western Reserve University": [
+    9,
+    10,
+    10,
+    9,
+    9
+  ],
+  "Providence College": [
+    8,
+    9,
+    9,
+    8,
+    5
+  ],
+  "Eckerd College": [
+    7,
+    7,
+    9,
+    5,
+    3
+  ],
+  "Oberlin College": [
+    8,
+    10,
+    10,
+    6,
+    4
+  ],
+  "Tuskegee University": [
+    6,
+    7,
+    8,
+    4,
+    1
+  ],
+  "California Institute of the Arts": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Monmouth University": [
+    7,
+    6,
+    8,
+    7,
+    5
+  ],
+  "University of Tulsa": [
+    8,
+    10,
+    10,
+    8,
+    10
+  ],
+  "Concordia University Ann Arbor": [
+    4,
+    5,
+    5,
+    4,
+    1
+  ],
+  "Dean College": [
+    0,
+    3,
+    4,
+    6,
+    0
+  ],
+  "Dallas Baptist University": [
+    6,
+    6,
+    4,
+    7,
+    3
+  ],
+  "University of Scranton": [
+    7,
+    8,
+    7,
+    7,
+    7
+  ],
+  "Brigham Young University Idaho": [
+    4,
+    5,
+    1,
+    6,
+    7
+  ],
+  "Marist College": [
+    0
+  ],
+  "Lynn University": [
+    0
+  ],
+  "Seattle University": [
+    8,
+    8,
+    9,
+    8,
+    8
+  ],
+  "Rochester Institute of Technology": [
+    8,
+    9,
+    8,
+    7,
+    6
+  ],
+  "University of Portland": [
+    8,
+    7,
+    10,
+    9,
+    8
+  ],
+  "Wesleyan University": [
+    10,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Stetson University": [
+    6,
+    7,
+    8,
+    6,
+    9
+  ],
+  "California Baptist University": [
+    5,
+    5,
+    4,
+    5,
+    2
+  ],
+  "Washington and Lee University": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Palm Beach Atlantic University West Palm Beach": [
+    6,
+    5,
+    6,
+    7,
+    4
+  ],
+  "Iona College": [
+    6,
+    6,
+    6,
+    7,
+    5
+  ],
+  "Skidmore College": [
+    9,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Bradley University": [
+    8,
+    8,
+    9,
+    7,
+    9
+  ],
+  "Adelphi University": [
+    8,
+    8,
+    8,
+    8,
+    7
+  ],
+  "Point Loma Nazarene University": [
+    7,
+    8,
+    6,
+    8,
+    4
+  ],
+  "Manhattan College": [
+    0
+  ],
+  "Campbell University": [
+    6,
+    5,
+    7,
+    7,
+    8
+  ],
+  "Samford University": [
+    7,
+    7,
+    7,
+    8,
+    7
+  ],
+  "Haverford College": [
+    10,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Duquesne University": [
+    8,
+    8,
+    8,
+    8,
+    7
+  ],
+  "University of the Incarnate Word": [
+    5,
+    4,
+    7,
+    5,
+    4
+  ],
+  "University of St Thomas": [
+    8,
+    8,
+    8,
+    8,
+    8
+  ],
+  "University of Redlands": [
+    7,
+    8,
+    8,
+    7,
+    9
+  ],
+  "Hawaii Pacific University": [
+    5,
+    7,
+    3,
+    6,
+    2
+  ],
+  "Fairfield University": [
+    8,
+    9,
+    8,
+    8,
+    4
+  ],
+  "Saint Leo University": [
+    5,
+    6,
+    1,
+    6,
+    4
+  ],
+  "Florida Southern College": [
+    7,
+    8,
+    7,
+    6,
+    7
+  ],
+  "Reed College": [
+    9,
+    10,
+    10,
+    8,
+    9
+  ],
+  "University of Mary Hardin Baylor": [
+    5,
+    5,
+    5,
+    5,
+    1
+  ],
+  "Muhlenberg College": [
+    9,
+    9,
+    10,
+    8,
+    10
+  ],
+  "Gonzaga University": [
+    8,
+    8,
+    8,
+    8,
+    6
+  ],
+  "Drake University": [
+    8,
+    9,
+    8,
+    8,
+    9
+  ],
+  "Wofford College": [
+    8,
+    9,
+    8,
+    8,
+    9
+  ],
+  "Harvey Mudd College": [
+    10,
+    10,
+    10,
+    9,
+    9
+  ],
+  "Colby College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Creighton University": [
+    8,
+    9,
+    9,
+    8,
+    9
+  ],
+  "Pratt Institute Main": [
+    0
+  ],
+  "Johnson & Wales University Providence": [
+    0
+  ],
+  "Sacred Heart University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Shaw University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Wellesley College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "University of La Verne": [
+    7,
+    8,
+    5,
+    7,
+    8
+  ],
+  "Carleton College": [
+    10,
+    10,
+    10,
+    9,
+    10
+  ],
+  "The New School": [
+    8,
+    8,
+    10,
+    7,
+    1
+  ],
+  "Middlebury College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "St. Mary's University": [
+    0
+  ],
+  "Ithaca College": [
+    8,
+    9,
+    9,
+    7,
+    8
+  ],
+  "Claremont McKenna College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Fisk University": [
+    5,
+    9,
+    5,
+    3,
+    6
+  ],
+  "Bethune Cookman University": [
+    0,
+    2,
+    5,
+    2,
+    0
+  ],
+  "Scripps College": [
+    9,
+    10,
+    10,
+    9,
+    8
+  ],
+  "Endicott College": [
+    7,
+    8,
+    6,
+    7,
+    2
+  ],
+  "Saint Augustines College": [
+    0
+  ],
+  "Whittier College": [
+    7,
+    8,
+    10,
+    6,
+    7
+  ],
+  "Queens University of Charlotte": [
+    0
+  ],
+  "Xavier University of Louisiana": [
+    6,
+    5,
+    6,
+    7,
+    8
+  ],
+  "Valparaiso University": [
+    7,
+    7,
+    7,
+    7,
+    9
+  ],
+  "Austin College": [
+    8,
+    9,
+    9,
+    7,
+    10
+  ],
+  "Westmont College": [
+    8,
+    9,
+    10,
+    7,
+    8
+  ],
+  "Catawba College": [
+    5,
+    5,
+    7,
+    5,
+    8
+  ],
+  "Biola University": [
+    7,
+    9,
+    7,
+    7,
+    7
+  ],
+  "Denison University": [
+    9,
+    10,
+    10,
+    7,
+    7
+  ],
+  "Grinnell College": [
+    9,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Southeastern University": [
+    0
+  ],
+  "Huston Tillotson University": [
+    0
+  ],
+  "Hamilton College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Rollins College": [
+    7,
+    9,
+    7,
+    7,
+    6
+  ],
+  "Bryant University": [
+    8,
+    9,
+    6,
+    8,
+    5
+  ],
+  "Seattle Pacific University": [
+    7,
+    7,
+    9,
+    7,
+    8
+  ],
+  "New York School of Interior Design": [
+    0,
+    9,
+    10,
+    9,
+    0
+  ],
+  "Kenyon College": [
+    9,
+    10,
+    10,
+    9,
+    8
+  ],
+  "Stevens Institute of Technology": [
+    8,
+    10,
+    8,
+    8,
+    6
+  ],
+  "DePauw University": [
+    9,
+    9,
+    10,
+    8,
+    10
+  ],
+  "Concordia University Irvine": [
+    6,
+    8,
+    5,
+    6,
+    5
+  ],
+  "Siena College": [
+    0
+  ],
+  "Loyola University Maryland": [
+    8,
+    9,
+    7,
+    8,
+    9
+  ],
+  "Hope College": [
+    7,
+    8,
+    8,
+    7,
+    7
+  ],
+  "Gettysburg College": [
+    9,
+    9,
+    9,
+    9,
+    10
+  ],
+  "Southwestern University": [
+    8,
+    9,
+    9,
+    7,
+    8
+  ],
+  "Berklee College of Music": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Notre Dame de Namur University": [
+    0
+  ],
+  "Mount St Mary's University": [
+    0
+  ],
+  "Lewis & Clark College": [
+    0
+  ],
+  "California Lutheran University": [
+    7,
+    7,
+    6,
+    7,
+    8
+  ],
+  "Rhodes College": [
+    8,
+    10,
+    9,
+    7,
+    9
+  ],
+  "University of New Haven": [
+    5,
+    6,
+    4,
+    5,
+    2
+  ],
+  "Merrimack College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Lenoir Rhyne University": [
+    0,
+    4,
+    6,
+    4,
+    0
+  ],
+  "Paul Quinn College": [
+    2,
+    3,
+    2,
+    1,
+    1
+  ],
+  "Harding University": [
+    0,
+    8,
+    6,
+    5,
+    0
+  ],
+  "Assumption College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Rider University": [
+    7,
+    7,
+    8,
+    7,
+    8
+  ],
+  "Saint Edward's University": [
+    0
+  ],
+  "Furman University": [
+    9,
+    9,
+    10,
+    8,
+    10
+  ],
+  "Mount St. Mary's College": [
+    0
+  ],
+  "Ringling College of Art and Design": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Willamette University": [
+    7,
+    9,
+    8,
+    6,
+    8
+  ],
+  "La Salle University": [
+    6,
+    6,
+    6,
+    7,
+    7
+  ],
+  "Bloomfield College": [
+    3,
+    2,
+    6,
+    2,
+    2
+  ],
+  "Benedict College": [
+    0
+  ],
+  "St Olaf College": [
+    8,
+    10,
+    8,
+    7,
+    10
+  ],
+  "Saint Louis University Main Campus": [
+    0
+  ],
+  "Roanoke College": [
+    7,
+    8,
+    8,
+    6,
+    7
+  ],
+  "Marymount University": [
+    6,
+    7,
+    5,
+    6,
+    5
+  ],
+  "Arcadia University": [
+    6,
+    8,
+    7,
+    5,
+    6
+  ],
+  "Saint Joseph's University": [
+    0
+  ],
+  "Columbia College Chicago": [
+    0
+  ],
+  "Clarkson University": [
+    8,
+    8,
+    8,
+    8,
+    9
+  ],
+  "Florida College": [
+    5,
+    6,
+    8,
+    4,
+    2
+  ],
+  "Life Pacific College": [
+    0
+  ],
+  "Belmont Abbey College": [
+    4,
+    4,
+    4,
+    3,
+    1
+  ],
+  "Illinois Institute of Technology": [
+    7,
+    9,
+    5,
+    7,
+    10
+  ],
+  "Webber International University": [
+    0
+  ],
+  "Lipscomb University": [
+    7,
+    8,
+    7,
+    7,
+    8
+  ],
+  "Lewis University": [
+    6,
+    6,
+    6,
+    7,
+    8
+  ],
+  "Salve Regina University": [
+    7,
+    8,
+    6,
+    7,
+    5
+  ],
+  "Alfred University": [
+    7,
+    9,
+    9,
+    5,
+    8
+  ],
+  "Gardner Webb University": [
+    5,
+    6,
+    6,
+    5,
+    6
+  ],
+  "John Carroll University": [
+    7,
+    8,
+    7,
+    7,
+    8
+  ],
+  "Stevenson University": [
+    0,
+    5,
+    7,
+    6,
+    0
+  ],
+  "Anderson University": [
+    0
+  ],
+  "Regis University": [
+    7,
+    6,
+    8,
+    8,
+    8
+  ],
+  "Macalester College": [
+    9,
+    10,
+    10,
+    7,
+    9
+  ],
+  "Saint Marys College of California": [
+    0
+  ],
+  "Suffolk University": [
+    6,
+    8,
+    6,
+    6,
+    4
+  ],
+  "Curry College": [
+    6,
+    5,
+    8,
+    6,
+    5
+  ],
+  "Long Island University C W Post Campus": [
+    6,
+    7,
+    7,
+    5,
+    6
+  ],
+  "Aurora University": [
+    4,
+    5,
+    2,
+    5,
+    3
+  ],
+  "Calvin University": [
+    0
+  ],
+  "University of Indianapolis": [
+    5,
+    5,
+    7,
+    5,
+    7
+  ],
+  "Laurel University": [
+    0
+  ],
+  "Johnson C Smith University": [
+    3,
+    3,
+    6,
+    2,
+    1
+  ],
+  "The College of Wooster": [
+    0
+  ],
+  "Worcester Polytechnic Institute": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "St. Andrews University": [
+    0
+  ],
+  "Menlo College": [
+    0,
+    5,
+    5,
+    5,
+    0
+  ],
+  "Dickinson College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Bard College": [
+    8,
+    9,
+    10,
+    5,
+    10
+  ],
+  "Ave Maria University": [
+    0
+  ],
+  "Trinity College": [
+    9,
+    10,
+    10,
+    9,
+    10
+  ],
+  "Colorado College": [
+    9,
+    10,
+    10,
+    8,
+    10
+  ],
+  "University of Hartford": [
+    7,
+    8,
+    9,
+    5,
+    7
+  ],
+  "Cornell College": [
+    6,
+    8,
+    7,
+    5,
+    8
+  ],
+  "Reinhardt University": [
+    5,
+    5,
+    6,
+    5,
+    2
+  ],
+  "Norwich University": [
+    6,
+    8,
+    6,
+    6,
+    6
+  ],
+  "Carthage College": [
+    5,
+    5,
+    5,
+    5,
+    4
+  ],
+  "Stonehill College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Elmhurst College": [
+    0
+  ],
+  "Virginia Union University": [
+    1,
+    1,
+    1,
+    1,
+    0
+  ],
+  "St. Thomas University": [
+    0
+  ],
+  "Guilford College": [
+    5,
+    6,
+    6,
+    5,
+    6
+  ],
+  "Wesley College": [
+    0
+  ],
+  "Greensboro College": [
+    4,
+    2,
+    7,
+    3,
+    1
+  ],
+  "Whitman College": [
+    9,
+    10,
+    10,
+    8,
+    7
+  ],
+  "Rose Hulman Institute of Technology": [
+    8,
+    9,
+    9,
+    8,
+    6
+  ],
+  "North Central College": [
+    7,
+    7,
+    7,
+    7,
+    8
+  ],
+  "University of the Sciences": [
+    0
+  ],
+  "Vanguard University of Southern California": [
+    5,
+    5,
+    4,
+    6,
+    7
+  ],
+  "Maryland Institute College of Art": [
+    7,
+    8,
+    10,
+    5,
+    3
+  ],
+  "Albright College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Wentworth Institute of Technology": [
+    7,
+    8,
+    6,
+    7,
+    3
+  ],
+  "Bowdoin College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "Oglethorpe University": [
+    5,
+    8,
+    3,
+    5,
+    7
+  ],
+  "Northwestern College": [
+    0
+  ],
+  "Franklin and Marshall College": [
+    0
+  ],
+  "Sarah Lawrence College": [
+    8,
+    9,
+    10,
+    7,
+    6
+  ],
+  "Shenandoah University": [
+    6,
+    6,
+    7,
+    6,
+    5
+  ],
+  "Concordia University Texas": [
+    3,
+    4,
+    2,
+    4,
+    1
+  ],
+  "Clark University": [
+    8,
+    10,
+    10,
+    6,
+    8
+  ],
+  "Roger Williams University": [
+    7,
+    7,
+    8,
+    6,
+    3
+  ],
+  "Milwaukee School of Engineering": [
+    7,
+    9,
+    8,
+    7,
+    9
+  ],
+  "Soka University of America": [
+    9,
+    9,
+    10,
+    9,
+    10
+  ],
+  "University of Evansville": [
+    7,
+    7,
+    9,
+    6,
+    9
+  ],
+  "Fresno Pacific University": [
+    6,
+    6,
+    6,
+    6,
+    9
+  ],
+  "Florida Hospital College of Health Sciences": [
+    0
+  ],
+  "Molloy College": [
+    7,
+    7,
+    8,
+    7,
+    7
+  ],
+  "Union College": [
+    9,
+    10,
+    10,
+    8,
+    8
+  ],
+  "Barton College": [
+    3,
+    3,
+    4,
+    3,
+    1
+  ],
+  "La Sierra University": [
+    5,
+    6,
+    8,
+    3,
+    3
+  ],
+  "Bryn Mawr College": [
+    9,
+    10,
+    10,
+    8,
+    8
+  ],
+  "University of Puget Sound": [
+    8,
+    8,
+    10,
+    6,
+    5
+  ],
+  "Le Moyne College": [
+    7,
+    8,
+    7,
+    7,
+    9
+  ],
+  "Augsburg College": [
+    0
+  ],
+  "Millsaps College": [
+    7,
+    9,
+    9,
+    6,
+    9
+  ],
+  "Texas Lutheran University": [
+    6,
+    6,
+    7,
+    5,
+    6
+  ],
+  "University of Lynchburg": [
+    0
+  ],
+  "Simmons University": [
+    0
+  ],
+  "Smith College": [
+    9,
+    10,
+    10,
+    8,
+    10
+  ],
+  "Pacific University": [
+    6,
+    6,
+    9,
+    6,
+    5
+  ],
+  "Robert Morris University": [
+    6,
+    6,
+    5,
+    6,
+    5
+  ],
+  "Woodbury University": [
+    0,
+    7,
+    10,
+    5,
+    0
+  ],
+  "Springfield College": [
+    7,
+    7,
+    8,
+    7,
+    7
+  ],
+  "College of Mount Saint Vincent": [
+    5,
+    5,
+    4,
+    6,
+    4
+  ],
+  "Ferrum College": [
+    0,
+    3,
+    5,
+    2,
+    0
+  ],
+  "Emmanuel College": [
+    6,
+    8,
+    6,
+    6,
+    5
+  ],
+  "Adrian College": [
+    5,
+    6,
+    4,
+    4,
+    5
+  ],
+  "Charleston Southern University": [
+    4,
+    4,
+    5,
+    3,
+    2
+  ],
+  "Chowan University": [
+    3,
+    4,
+    3,
+    1,
+    1
+  ],
+  "Allegheny College": [
+    8,
+    9,
+    10,
+    6,
+    10
+  ],
+  "Brigham Young University Hawaii": [
+    6,
+    6,
+    6,
+    6,
+    3
+  ],
+  "Pacific Lutheran University": [
+    6,
+    6,
+    7,
+    7,
+    9
+  ],
+  "Bridgewater College": [
+    5,
+    8,
+    5,
+    5,
+    8
+  ],
+  "Schreiner University": [
+    4,
+    4,
+    5,
+    4,
+    2
+  ],
+  "Baker University": [
+    5,
+    3,
+    5,
+    7,
+    5
+  ],
+  "Meredith College": [
+    7,
+    8,
+    9,
+    5,
+    9
+  ],
+  "Houston Baptist University": [
+    5,
+    7,
+    2,
+    6,
+    5
+  ],
+  "Hendrix College": [
+    7,
+    9,
+    8,
+    5,
+    8
+  ],
+  "Piedmont College": [
+    5,
+    4,
+    5,
+    6,
+    5
+  ],
+  "California College of the Arts": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Olin College of Engineering": [
+    0
+  ],
+  "Lindenwood University": [
+    0
+  ],
+  "St Lawrence University": [
+    8,
+    9,
+    9,
+    7,
+    9
+  ],
+  "Life University": [
+    5,
+    2,
+    3,
+    8,
+    1
+  ],
+  "Mars Hill University": [
+    0,
+    4,
+    7,
+    2,
+    0
+  ],
+  "Mercy College": [
+    0
+  ],
+  "DeSales University": [
+    7,
+    7,
+    7,
+    7,
+    7
+  ],
+  "Indiana Wesleyan University": [
+    7,
+    7,
+    7,
+    8,
+    8
+  ],
+  "Susquehanna University": [
+    7,
+    8,
+    7,
+    7,
+    9
+  ],
+  "Fairleigh Dickinson University College at Florham": [
+    7,
+    7,
+    8,
+    6,
+    7
+  ],
+  "Ursinus College": [
+    8,
+    8,
+    9,
+    7,
+    9
+  ],
+  "Holy Cross College": [
+    5,
+    8,
+    5,
+    3,
+    3
+  ],
+  "William Peace University": [
+    4,
+    6,
+    4,
+    3,
+    2
+  ],
+  "Hamline University": [
+    7,
+    8,
+    5,
+    8,
+    9
+  ],
+  "Long Island University Brooklyn Campus": [
+    0
+  ],
+  "Western New England University": [
+    7,
+    7,
+    7,
+    7,
+    5
+  ],
+  "Birmingham Southern College": [
+    7,
+    8,
+    8,
+    6,
+    6
+  ],
+  "Southern Virginia University": [
+    0,
+    5,
+    2,
+    3,
+    0
+  ],
+  "Holy Names University": [
+    0
+  ],
+  "Catholic University of America": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Spring Hill College": [
+    6,
+    6,
+    6,
+    7,
+    7
+  ],
+  "Hardin Simmons University": [
+    5,
+    4,
+    5,
+    5,
+    5
+  ],
+  "Georgetown College": [
+    4,
+    6,
+    2,
+    4,
+    8
+  ],
+  "Regent University": [
+    4,
+    7,
+    1,
+    4,
+    2
+  ],
+  "Trine University": [
+    5,
+    7,
+    2,
+    5,
+    3
+  ],
+  "Northwood University Florida": [
+    0,
+    4,
+    0,
+    0,
+    0
+  ],
+  "Brevard College": [
+    4,
+    7,
+    5,
+    3,
+    1
+  ],
+  "American International College": [
+    3,
+    2,
+    3,
+    4,
+    1
+  ],
+  "Delaware Valley University": [
+    0
+  ],
+  "Point University": [
+    4,
+    6,
+    3,
+    2,
+    1
+  ],
+  "LeTourneau University": [
+    7,
+    9,
+    7,
+    6,
+    6
+  ],
+  "Alvernia University": [
+    5,
+    7,
+    5,
+    5,
+    4
+  ],
+  "Davenport University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Loyola University New Orleans": [
+    5,
+    5,
+    6,
+    0,
+    5
+  ],
+  "Pitzer College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "University of Detroit Mercy": [
+    7,
+    7,
+    8,
+    7,
+    9
+  ],
+  "Otterbein University": [
+    6,
+    6,
+    7,
+    5,
+    7
+  ],
+  "Lee University": [
+    5,
+    6,
+    5,
+    3,
+    3
+  ],
+  "Texas Wesleyan University": [
+    5,
+    4,
+    5,
+    4,
+    4
+  ],
+  "Virginia Wesleyan College": [
+    0
+  ],
+  "School of the Art Institute of Chicago": [
+    6,
+    6,
+    9,
+    5,
+    1
+  ],
+  "Marymount California University": [
+    0
+  ],
+  "Northwest University": [
+    7,
+    7,
+    9,
+    6,
+    7
+  ],
+  "Mount Holyoke College": [
+    9,
+    10,
+    10,
+    8,
+    9
+  ],
+  "Notre Dame College": [
+    0
+  ],
+  "Dominican University": [
+    6,
+    3,
+    7,
+    7,
+    8
+  ],
+  "Capital University": [
+    6,
+    5,
+    8,
+    5,
+    7
+  ],
+  "Hanover College": [
+    7,
+    8,
+    9,
+    5,
+    9
+  ],
+  "Coe College": [
+    6,
+    7,
+    7,
+    6,
+    10
+  ],
+  "Nichols College": [
+    0
+  ],
+  "Lawrence Technological University": [
+    0,
+    7,
+    8,
+    5,
+    0
+  ],
+  "Art Center College of Design": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Cabrini College": [
+    6,
+    6,
+    7,
+    5,
+    5
+  ],
+  "Presbyterian College": [
+    7,
+    7,
+    8,
+    6,
+    10
+  ],
+  "Baldwin Wallace College": [
+    7,
+    7,
+    9,
+    6,
+    7
+  ],
+  "York College Pennsylvania": [
+    6,
+    6,
+    6,
+    6,
+    5
+  ],
+  "Marian University": [
+    0
+  ],
+  "Taylor University": [
+    7,
+    8,
+    6,
+    6,
+    7
+  ],
+  "Roosevelt University": [
+    6,
+    7,
+    7,
+    6,
+    10
+  ],
+  "St John's College": [
+    0
+  ],
+  "Caldwell University": [
+    0
+  ],
+  "Cedar Crest College": [
+    6,
+    5,
+    8,
+    5,
+    6
+  ],
+  "Arlington Baptist College": [
+    0
+  ],
+  "Agnes Scott College": [
+    7,
+    9,
+    9,
+    4,
+    8
+  ],
+  "Drew University": [
+    7,
+    9,
+    7,
+    6,
+    7
+  ],
+  "Utica College": [
+    0
+  ],
+  "Claflin University": [
+    3,
+    2,
+    5,
+    2,
+    1
+  ],
+  "Columbia College": [
+    0
+  ],
+  "Gannon University": [
+    6,
+    7,
+    5,
+    7,
+    7
+  ],
+  "Averett University": [
+    5,
+    5,
+    6,
+    5,
+    5
+  ],
+  "Chaminade University of Honolulu": [
+    5,
+    7,
+    7,
+    4,
+    2
+  ],
+  "LaGrange College": [
+    5,
+    5,
+    8,
+    4,
+    4
+  ],
+  "Kalamazoo College": [
+    7,
+    8,
+    9,
+    6,
+    10
+  ],
+  "Randolph Macon College": [
+    6,
+    7,
+    8,
+    5,
+    6
+  ],
+  "Dillard University": [
+    3,
+    5,
+    5,
+    1,
+    1
+  ],
+  "Otis College of Art and Design": [
+    7,
+    8,
+    10,
+    5,
+    1
+  ],
+  "Mitchell College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Kettering University": [
+    7,
+    7,
+    8,
+    7,
+    6
+  ],
+  "Mount Saint Mary College": [
+    6,
+    6,
+    6,
+    6,
+    5
+  ],
+  "Saint John Fisher College": [
+    0
+  ],
+  "Albion College": [
+    6,
+    6,
+    8,
+    6,
+    10
+  ],
+  "North Park University": [
+    5,
+    6,
+    5,
+    5,
+    6
+  ],
+  "College of the Holy Cross": [
+    9,
+    10,
+    10,
+    8,
+    9
+  ],
+  "Ohio Northern University": [
+    7,
+    8,
+    7,
+    7,
+    8
+  ],
+  "Oral Roberts University": [
+    4,
+    5,
+    3,
+    4,
+    2
+  ],
+  "Manchester University": [
+    0
+  ],
+  "Millikin University": [
+    6,
+    5,
+    8,
+    5,
+    9
+  ],
+  "Champlain College": [
+    7,
+    9,
+    6,
+    7,
+    4
+  ],
+  "Saint Anselm College": [
+    7,
+    6,
+    8,
+    7,
+    6
+  ],
+  "Hobart William Smith Colleges": [
+    8,
+    9,
+    9,
+    7,
+    10
+  ],
+  "Paine College": [
+    3,
+    2,
+    7,
+    1,
+    1
+  ],
+  "Hartwick College": [
+    6,
+    7,
+    9,
+    5,
+    8
+  ],
+  "University of Mount Union": [
+    6,
+    7,
+    6,
+    6,
+    6
+  ],
+  "Manhattanville College": [
+    6,
+    7,
+    6,
+    6,
+    6
+  ],
+  "Bates College": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "McDaniel College": [
+    0,
+    7,
+    7,
+    6,
+    0
+  ],
+  "Niagara University": [
+    6,
+    6,
+    6,
+    6,
+    9
+  ],
+  "Newberry College": [
+    4,
+    4,
+    4,
+    3,
+    2
+  ],
+  "Polytechnic Institute of New York University": [
+    0,
+    9,
+    0,
+    0,
+    0
+  ],
+  "Chestnut Hill College": [
+    4,
+    3,
+    7,
+    4,
+    2
+  ],
+  "Beloit College": [
+    7,
+    9,
+    7,
+    5,
+    9
+  ],
+  "Fisher College": [
+    5,
+    5,
+    4,
+    5,
+    2
+  ],
+  "Pfeiffer University": [
+    5,
+    4,
+    6,
+    5,
+    5
+  ],
+  "Maryville College": [
+    5,
+    7,
+    6,
+    4,
+    7
+  ],
+  "Illinois Wesleyan University": [
+    8,
+    8,
+    9,
+    7,
+    9
+  ],
+  "Hampden Sydney College": [
+    8,
+    9,
+    10,
+    7,
+    9
+  ],
+  "Cedarville University": [
+    7,
+    8,
+    5,
+    7,
+    6
+  ],
+  "Dallas Christian College": [
+    3,
+    3,
+    3,
+    3,
+    1
+  ],
+  "Gustavus Adolphus College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Bellarmine University": [
+    6,
+    6,
+    6,
+    7,
+    9
+  ],
+  "Massachusetts College of Pharmacy and Health Sciences": [
+    0
+  ],
+  "Saint Bonaventure University": [
+    6,
+    8,
+    5,
+    6,
+    5
+  ],
+  "Carroll University": [
+    6,
+    8,
+    5,
+    5,
+    5
+  ],
+  "Johnson & Wales University Charlotte": [
+    0
+  ],
+  "Messiah College": [
+    7,
+    8,
+    6,
+    7,
+    6
+  ],
+  "Westminster College": [
+    0
+  ],
+  "Young Harris College": [
+    4,
+    6,
+    5,
+    0,
+    4
+  ],
+  "Andrews University": [
+    7,
+    8,
+    8,
+    5,
+    6
+  ],
+  "Southern New Hampshire University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Centre College": [
+    8,
+    9,
+    10,
+    7,
+    10
+  ],
+  "Saint Mary's College": [
+    0
+  ],
+  "Drury University": [
+    6,
+    8,
+    6,
+    5,
+    7
+  ],
+  "Wagner College": [
+    7,
+    7,
+    6,
+    8,
+    7
+  ],
+  "Ohio Wesleyan University": [
+    7,
+    9,
+    8,
+    5,
+    9
+  ],
+  "Albany College of Pharmacy and Health Sciences": [
+    9,
+    9,
+    10,
+    8,
+    10
+  ],
+  "Canisius College": [
+    7,
+    7,
+    6,
+    7,
+    8
+  ],
+  "Montreat College": [
+    5,
+    7,
+    5,
+    4,
+    3
+  ],
+  "Wilkes University": [
+    6,
+    7,
+    6,
+    7,
+    6
+  ],
+  "University of New England": [
+    0,
+    6,
+    7,
+    6,
+    0
+  ],
+  "Widener University Main Campus": [
+    0
+  ],
+  "Lesley University": [
+    0,
+    6,
+    8,
+    4,
+    0
+  ],
+  "Neumann University": [
+    5,
+    4,
+    5,
+    5,
+    2
+  ],
+  "Wabash College": [
+    8,
+    8,
+    10,
+    8,
+    10
+  ],
+  "Felician College": [
+    0
+  ],
+  "Hood College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Our Lady of the Lake University San Antonio": [
+    0
+  ],
+  "Rockhurst University": [
+    7,
+    7,
+    5,
+    9,
+    9
+  ],
+  "Alma College": [
+    0,
+    7,
+    7,
+    6,
+    0
+  ],
+  "Mary Baldwin College": [
+    0
+  ],
+  "University of Charleston": [
+    5,
+    4,
+    3,
+    7,
+    5
+  ],
+  "Prescott College": [
+    4,
+    6,
+    5,
+    3,
+    3
+  ],
+  "University of Dubuque": [
+    5,
+    5,
+    8,
+    4,
+    3
+  ],
+  "Piedmont International University": [
+    0
+  ],
+  "Limestone University": [
+    0
+  ],
+  "Edward Waters College": [
+    1,
+    2,
+    1,
+    1,
+    1
+  ],
+  "University of Bridgeport": [
+    3,
+    3,
+    3,
+    3,
+    1
+  ],
+  "Brewton Parker College": [
+    3,
+    3,
+    3,
+    2,
+    1
+  ],
+  "Oakwood University": [
+    0,
+    4,
+    6,
+    2,
+    0
+  ],
+  "Gallaudet University": [
+    5,
+    3,
+    10,
+    4,
+    9
+  ],
+  "Marywood University": [
+    5,
+    6,
+    6,
+    5,
+    4
+  ],
+  "Nyack College": [
+    0
+  ],
+  "Warren Wilson College": [
+    6,
+    7,
+    8,
+    4,
+    4
+  ],
+  "Lees McRae College": [
+    5,
+    6,
+    5,
+    3,
+    2
+  ],
+  "Le Moyne Owen College": [
+    0
+  ],
+  "George Fox University": [
+    6,
+    7,
+    6,
+    7,
+    5
+  ],
+  "Chatham University": [
+    7,
+    7,
+    8,
+    6,
+    7
+  ],
+  "McKendree University": [
+    6,
+    7,
+    2,
+    6,
+    4
+  ],
+  "Indiana Institute of Technology": [
+    0,
+    5,
+    2,
+    4,
+    0
+  ],
+  "Wartburg College": [
+    6,
+    5,
+    6,
+    6,
+    7
+  ],
+  "Bethel College Mishawaka": [
+    4,
+    4,
+    5,
+    4,
+    3
+  ],
+  "Livingstone College": [
+    3,
+    3,
+    5,
+    1,
+    1
+  ],
+  "University of Saint Francis Fort Wayne": [
+    5,
+    4,
+    6,
+    6,
+    5
+  ],
+  "New England College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Columbia International University": [
+    4,
+    4,
+    3,
+    5,
+    2
+  ],
+  "Trinity College of Florida": [
+    3,
+    2,
+    4,
+    2,
+    1
+  ],
+  "Webster University": [
+    6,
+    8,
+    6,
+    6,
+    6
+  ],
+  "North Greenville University": [
+    5,
+    7,
+    5,
+    4,
+    6
+  ],
+  "College of the Ozarks": [
+    6,
+    8,
+    6,
+    4,
+    10
+  ],
+  "Marymount Manhattan College": [
+    6,
+    7,
+    9,
+    4,
+    3
+  ],
+  "Mississippi College": [
+    6,
+    8,
+    5,
+    5,
+    7
+  ],
+  "Sewanee The University of the South": [
+    0
+  ],
+  "Carroll College": [
+    0
+  ],
+  "Emory and Henry College": [
+    6,
+    7,
+    8,
+    4,
+    7
+  ],
+  "Maryville University of Saint Louis": [
+    0
+  ],
+  "New York Institute of Technology": [
+    7,
+    9,
+    8,
+    7,
+    9
+  ],
+  "St. Francis College": [
+    0
+  ],
+  "Immaculata University": [
+    6,
+    7,
+    5,
+    6,
+    3
+  ],
+  "Luther College": [
+    7,
+    8,
+    9,
+    6,
+    9
+  ],
+  "College of Saint Elizabeth": [
+    0,
+    3,
+    8,
+    6,
+    0
+  ],
+  "Goshen College": [
+    7,
+    6,
+    9,
+    8,
+    10
+  ],
+  "Saint Ambrose University": [
+    0
+  ],
+  "College for Creative Studies": [
+    0,
+    8,
+    9,
+    5,
+    0
+  ],
+  "Dowling College": [
+    0
+  ],
+  "Whitworth University": [
+    7,
+    7,
+    8,
+    7,
+    9
+  ],
+  "Methodist University": [
+    5,
+    5,
+    8,
+    3,
+    3
+  ],
+  "Florida Memorial University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Warner University": [
+    0
+  ],
+  "Carson Newman College": [
+    0
+  ],
+  "Wayland Baptist University": [
+    6,
+    4,
+    8,
+    6,
+    5
+  ],
+  "Dominican University of California": [
+    7,
+    7,
+    9,
+    6,
+    1
+  ],
+  "Eastern University": [
+    4,
+    4,
+    1,
+    6,
+    4
+  ],
+  "Husson University": [
+    0,
+    4,
+    0,
+    0,
+    0
+  ],
+  "Dunwoody College of Technology": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Saint Johns University": [
+    0
+  ],
+  "Saint Francis University": [
+    6,
+    6,
+    5,
+    7,
+    6
+  ],
+  "Covenant College": [
+    6,
+    8,
+    6,
+    6,
+    7
+  ],
+  "Shorter University": [
+    3,
+    3,
+    2,
+    4,
+    2
+  ],
+  "Laguna College of Art and Design": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Lake Forest College": [
+    7,
+    9,
+    7,
+    6,
+    8
+  ],
+  "Grand View University": [
+    4,
+    2,
+    4,
+    5,
+    2
+  ],
+  "Spring Arbor University": [
+    6,
+    6,
+    4,
+    6,
+    6
+  ],
+  "Marietta College": [
+    7,
+    7,
+    10,
+    5,
+    9
+  ],
+  "Johnson University": [
+    5,
+    5,
+    6,
+    5,
+    3
+  ],
+  "Robert Morris University Illinois": [
+    0
+  ],
+  "Keystone College": [
+    3,
+    3,
+    4,
+    3,
+    1
+  ],
+  "Ashland University": [
+    6,
+    6,
+    6,
+    6,
+    5
+  ],
+  "Earlham College": [
+    7,
+    8,
+    10,
+    5,
+    9
+  ],
+  "Yeshiva University": [
+    9,
+    9,
+    10,
+    9,
+    9
+  ],
+  "Embry Riddle Aeronautical University Prescott": [
+    7,
+    8,
+    6,
+    7,
+    3
+  ],
+  "Madonna University": [
+    5,
+    2,
+    8,
+    5,
+    5
+  ],
+  "Mount Olive College": [
+    3,
+    4,
+    1,
+    4,
+    1
+  ],
+  "Howard Payne University": [
+    5,
+    5,
+    7,
+    4,
+    3
+  ],
+  "Arizona Christian University": [
+    3,
+    4,
+    1,
+    3,
+    1
+  ],
+  "Rosemont College": [
+    5,
+    5,
+    4,
+    5,
+    4
+  ],
+  "Bethel University": [
+    0
+  ],
+  "Becker College": [
+    0
+  ],
+  "John Paul the Great Catholic University": [
+    0
+  ],
+  "Mills College": [
+    0
+  ],
+  "Elizabethtown College": [
+    7,
+    7,
+    8,
+    7,
+    7
+  ],
+  "University of St Francis": [
+    6,
+    5,
+    4,
+    8,
+    9
+  ],
+  "Lasell College": [
+    5,
+    6,
+    6,
+    4,
+    8
+  ],
+  "Lebanon Valley College": [
+    7,
+    7,
+    7,
+    7,
+    8
+  ],
+  "McMurry University": [
+    5,
+    6,
+    5,
+    4,
+    4
+  ],
+  "University of Mobile": [
+    0,
+    8,
+    5,
+    4,
+    0
+  ],
+  "Transylvania University": [
+    6,
+    8,
+    8,
+    5,
+    8
+  ],
+  "Stephens College": [
+    6,
+    6,
+    10,
+    4,
+    5
+  ],
+  "Centenary University": [
+    0
+  ],
+  "Union University": [
+    8,
+    8,
+    9,
+    7,
+    9
+  ],
+  "Lane College": [
+    0
+  ],
+  "Lycoming College": [
+    7,
+    8,
+    8,
+    6,
+    10
+  ],
+  "Misericordia University": [
+    0,
+    6,
+    7,
+    7,
+    0
+  ],
+  "Franklin College": [
+    5,
+    7,
+    6,
+    4,
+    5
+  ],
+  "East Texas Baptist University": [
+    0,
+    4,
+    4,
+    4,
+    0
+  ],
+  "Northwood University Michigan": [
+    5,
+    4,
+    4,
+    7,
+    3
+  ],
+  "Augustana University": [
+    7,
+    7,
+    8,
+    6,
+    9
+  ],
+  "Regis College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Saint Martin's University": [
+    0
+  ],
+  "Houghton College": [
+    6,
+    8,
+    7,
+    6,
+    3
+  ],
+  "Linfield University": [
+    0
+  ],
+  "Concordia University Wisconsin": [
+    6,
+    6,
+    6,
+    7,
+    6
+  ],
+  "Connecticut College": [
+    9,
+    10,
+    9,
+    9,
+    8
+  ],
+  "Toccoa Falls College": [
+    4,
+    6,
+    2,
+    4,
+    2
+  ],
+  "Truett McConnell College": [
+    3,
+    4,
+    2,
+    2,
+    1
+  ],
+  "William Jewell College": [
+    7,
+    6,
+    8,
+    7,
+    9
+  ],
+  "North Carolina Wesleyan College": [
+    4,
+    3,
+    4,
+    4,
+    3
+  ],
+  "Heidelberg University": [
+    0
+  ],
+  "Muskingum University": [
+    4,
+    3,
+    5,
+    4,
+    3
+  ],
+  "Hollins University": [
+    7,
+    8,
+    10,
+    4,
+    9
+  ],
+  "D'Youville College": [
+    0
+  ],
+  "Saint Xavier University": [
+    5,
+    4,
+    3,
+    7,
+    8
+  ],
+  "Washington Adventist University": [
+    0
+  ],
+  "Gordon College": [
+    0
+  ],
+  "Elmira College": [
+    0
+  ],
+  "Gwynedd Mercy College": [
+    6,
+    4,
+    7,
+    7,
+    5
+  ],
+  "Calumet College of Saint Joseph": [
+    0
+  ],
+  "St Catherine University": [
+    7,
+    8,
+    8,
+    7,
+    9
+  ],
+  "Cambridge College": [
+    0
+  ],
+  "Naropa University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Corban University": [
+    4,
+    5,
+    2,
+    4,
+    1
+  ],
+  "Goldey Beacom College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "University of Northwestern Ohio": [
+    0
+  ],
+  "Oklahoma City University": [
+    7,
+    7,
+    9,
+    7,
+    9
+  ],
+  "Northwood University Texas": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Huntingdon College": [
+    5,
+    5,
+    4,
+    5,
+    3
+  ],
+  "Benedictine University": [
+    6,
+    7,
+    5,
+    7,
+    6
+  ],
+  "Goucher College": [
+    7,
+    8,
+    10,
+    5,
+    9
+  ],
+  "Allen University": [
+    0
+  ],
+  "Hodges University": [
+    0
+  ],
+  "Wittenberg University": [
+    6,
+    6,
+    8,
+    6,
+    8
+  ],
+  "Loras College": [
+    0,
+    6,
+    4,
+    5,
+    0
+  ],
+  "Point Park University": [
+    5,
+    5,
+    7,
+    4,
+    3
+  ],
+  "University of Fort Lauderdale": [
+    0
+  ],
+  "Eureka College": [
+    4,
+    3,
+    3,
+    6,
+    3
+  ],
+  "Illinois College": [
+    5,
+    5,
+    6,
+    4,
+    8
+  ],
+  "Lawrence University": [
+    8,
+    9,
+    10,
+    6,
+    10
+  ],
+  "Walla Walla University": [
+    0
+  ],
+  "Concordia College at Moorhead": [
+    0
+  ],
+  "Converse College": [
+    0
+  ],
+  "Cardinal Stritch University": [
+    0
+  ],
+  "Colorado Christian University": [
+    0
+  ],
+  "Washington College": [
+    8,
+    8,
+    10,
+    8,
+    9
+  ],
+  "St Louis College of Pharmacy": [
+    9,
+    7,
+    10,
+    0,
+    8
+  ],
+  "Washington & Jefferson College": [
+    0
+  ],
+  "Beacon College": [
+    0
+  ],
+  "Avila University": [
+    4,
+    3,
+    5,
+    5,
+    2
+  ],
+  "Holy Family University": [
+    5,
+    3,
+    6,
+    7,
+    8
+  ],
+  "Cooper Union for the Advancement of Science and Art": [
+    0
+  ],
+  "Johnson University Florida": [
+    0
+  ],
+  "Siena Heights University": [
+    5,
+    4,
+    4,
+    6,
+    7
+  ],
+  "Charles R Drew University of Medicine and Science": [
+    0
+  ],
+  "Albertus Magnus College": [
+    0,
+    3,
+    4,
+    6,
+    0
+  ],
+  "Lubbock Christian University": [
+    5,
+    5,
+    5,
+    5,
+    3
+  ],
+  "Saint Michael's College": [
+    0
+  ],
+  "Eastern Mennonite University": [
+    0,
+    9,
+    8,
+    7,
+    0
+  ],
+  "Anna Maria College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "The University of Findlay": [
+    6,
+    5,
+    6,
+    7,
+    5
+  ],
+  "Viterbo University": [
+    6,
+    8,
+    5,
+    5,
+    6
+  ],
+  "Salem College": [
+    6,
+    7,
+    9,
+    4,
+    9
+  ],
+  "American Musical and Dramatic Academy": [
+    0
+  ],
+  "Monmouth College": [
+    6,
+    6,
+    9,
+    5,
+    9
+  ],
+  "Franklin University": [
+    0
+  ],
+  "Sweet Briar College": [
+    7,
+    7,
+    10,
+    6,
+    6
+  ],
+  "Wesleyan College": [
+    5,
+    3,
+    8,
+    4,
+    7
+  ],
+  "Colby Sawyer College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Cairn University": [
+    5,
+    6,
+    5,
+    5,
+    2
+  ],
+  "Crown College": [
+    0
+  ],
+  "King's College": [
+    0
+  ],
+  "Mercyhurst College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Trevecca Nazarene University": [
+    5,
+    5,
+    3,
+    7,
+    8
+  ],
+  "Cornerstone University": [
+    4,
+    5,
+    3,
+    4,
+    2
+  ],
+  "Saint Joseph's College New York": [
+    0
+  ],
+  "Remington College": [
+    0
+  ],
+  "Bethesda University of California": [
+    0
+  ],
+  "Defiance College": [
+    5,
+    4,
+    7,
+    4,
+    3
+  ],
+  "Wilberforce University": [
+    4,
+    3,
+    7,
+    3,
+    8
+  ],
+  "La Roche College": [
+    5,
+    6,
+    5,
+    5,
+    3
+  ],
+  "Faulkner University": [
+    4,
+    4,
+    5,
+    4,
+    3
+  ],
+  "Herzing University Atlanta": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Olivet College": [
+    3,
+    3,
+    5,
+    3,
+    1
+  ],
+  "Ohio Dominican University": [
+    0,
+    5,
+    3,
+    5,
+    0
+  ],
+  "Wells College": [
+    0,
+    6,
+    8,
+    4,
+    0
+  ],
+  "Ouachita Baptist University": [
+    6,
+    7,
+    6,
+    6,
+    8
+  ],
+  "Concordia University Chicago": [
+    5,
+    4,
+    3,
+    6,
+    6
+  ],
+  "Minneapolis College of Art and Design": [
+    8,
+    9,
+    9,
+    6,
+    8
+  ],
+  "Antioch University Seattle": [
+    0
+  ],
+  "Belhaven University": [
+    4,
+    6,
+    3,
+    4,
+    1
+  ],
+  "Walsh University": [
+    6,
+    7,
+    4,
+    6,
+    7
+  ],
+  "Bluefield College": [
+    0,
+    2,
+    3,
+    5,
+    0
+  ],
+  "Trinity Washington University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Quincy University": [
+    5,
+    7,
+    3,
+    6,
+    8
+  ],
+  "Ripon College": [
+    6,
+    6,
+    7,
+    5,
+    8
+  ],
+  "Rochester College": [
+    4,
+    4,
+    4,
+    4,
+    2
+  ],
+  "Juniata College": [
+    7,
+    8,
+    8,
+    6,
+    8
+  ],
+  "Cumberland University": [
+    0
+  ],
+  "Carlow University": [
+    5,
+    2,
+    7,
+    5,
+    4
+  ],
+  "Saint Vincent College": [
+    7,
+    6,
+    8,
+    6,
+    8
+  ],
+  "Bard College at Simon's Rock": [
+    0
+  ],
+  "Stillman College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Lyon College": [
+    6,
+    6,
+    10,
+    5,
+    7
+  ],
+  "Benedictine College": [
+    5,
+    7,
+    4,
+    5,
+    3
+  ],
+  "Hampshire College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Hiram College": [
+    5,
+    4,
+    8,
+    6,
+    5
+  ],
+  "Seton Hill University": [
+    5,
+    7,
+    6,
+    4,
+    5
+  ],
+  "Milligan College": [
+    0,
+    7,
+    0,
+    0,
+    0
+  ],
+  "Tusculum College": [
+    3,
+    4,
+    2,
+    3,
+    1
+  ],
+  "Southwestern College": [
+    0
+  ],
+  "Franciscan University of Steubenville": [
+    6,
+    8,
+    2,
+    7,
+    4
+  ],
+  "Tiffin University": [
+    4,
+    3,
+    1,
+    5,
+    1
+  ],
+  "Lakeland University": [
+    0
+  ],
+  "Rust College": [
+    4,
+    8,
+    5,
+    1,
+    8
+  ],
+  "Coker College": [
+    3,
+    4,
+    4,
+    3,
+    2
+  ],
+  "Newman University": [
+    0,
+    6,
+    4,
+    5,
+    0
+  ],
+  "Huntington University": [
+    6,
+    5,
+    8,
+    5,
+    5
+  ],
+  "Aquinas College": [
+    0
+  ],
+  "William Carey University": [
+    6,
+    7,
+    7,
+    5,
+    9
+  ],
+  "Touro College": [
+    8,
+    9,
+    9,
+    7,
+    7
+  ],
+  "Thiel College": [
+    4,
+    5,
+    5,
+    3,
+    2
+  ],
+  "The College of Saint Thomas More": [
+    0
+  ],
+  "Upper Iowa University": [
+    4,
+    3,
+    1,
+    6,
+    6
+  ],
+  "Hilbert College": [
+    3,
+    4,
+    3,
+    4,
+    1
+  ],
+  "Central College": [
+    6,
+    5,
+    7,
+    6,
+    4
+  ],
+  "Hastings College": [
+    5,
+    6,
+    5,
+    5,
+    6
+  ],
+  "Grace College and Theological Seminary": [
+    0
+  ],
+  "Augustana College": [
+    7,
+    7,
+    7,
+    7,
+    9
+  ],
+  "Asbury University": [
+    6,
+    8,
+    7,
+    5,
+    8
+  ],
+  "The Sage Colleges": [
+    0
+  ],
+  "Morningside College": [
+    0,
+    6,
+    4,
+    5,
+    0
+  ],
+  "Eastern Nazarene College": [
+    6,
+    5,
+    6,
+    6,
+    6
+  ],
+  "Georgian Court University": [
+    6,
+    6,
+    7,
+    5,
+    7
+  ],
+  "The College of Saint Rose": [
+    0
+  ],
+  "Alverno College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Touro College Los Angeles": [
+    0
+  ],
+  "Thomas Aquinas College": [
+    0
+  ],
+  "Olivet Nazarene University": [
+    6,
+    7,
+    5,
+    6,
+    7
+  ],
+  "Mount Mercy University": [
+    0,
+    5,
+    4,
+    8,
+    0
+  ],
+  "Medaille College": [
+    0
+  ],
+  "Waynesburg University": [
+    6,
+    5,
+    8,
+    6,
+    5
+  ],
+  "Texas College": [
+    0
+  ],
+  "Notre Dame of Maryland University": [
+    0,
+    6,
+    9,
+    6,
+    0
+  ],
+  "Bennett College for Women": [
+    0
+  ],
+  "Art Academy of Cincinnati": [
+    0,
+    6,
+    6,
+    2,
+    0
+  ],
+  "Moravian University": [
+    0
+  ],
+  "Erskine College": [
+    0
+  ],
+  "Bethel College": [
+    0
+  ],
+  "Pacific Union College": [
+    6,
+    5,
+    9,
+    5,
+    8
+  ],
+  "Simpson University": [
+    6,
+    6,
+    6,
+    5,
+    4
+  ],
+  "Oakland City University": [
+    5,
+    4,
+    5,
+    6,
+    9
+  ],
+  "Kansas City Art Institute": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Jarvis Christian College": [
+    0
+  ],
+  "York College": [
+    4,
+    4,
+    4,
+    2,
+    1
+  ],
+  "Dominican College of Blauvelt": [
+    5,
+    6,
+    6,
+    5,
+    4
+  ],
+  "Bellevue University": [
+    0
+  ],
+  "Fairleigh Dickinson University Metropolitan Campus": [
+    4,
+    4,
+    5,
+    5,
+    6
+  ],
+  "Saint Peter's University": [
+    0
+  ],
+  "City University of Seattle": [
+    0
+  ],
+  "Louisiana College": [
+    5,
+    4,
+    6,
+    4,
+    6
+  ],
+  "North Central University": [
+    4,
+    4,
+    6,
+    3,
+    1
+  ],
+  "Saint Mary's University of Minnesota": [
+    0
+  ],
+  "Wilmington College": [
+    4,
+    3,
+    4,
+    4,
+    1
+  ],
+  "Bennington College": [
+    7,
+    9,
+    10,
+    5,
+    8
+  ],
+  "Edgewood College": [
+    0,
+    6,
+    8,
+    6,
+    0
+  ],
+  "John Brown University": [
+    7,
+    8,
+    5,
+    8,
+    9
+  ],
+  "Warner Pacific College": [
+    0
+  ],
+  "Baptist Memorial College of Health Sciences": [
+    0
+  ],
+  "Finlandia University": [
+    0
+  ],
+  "Morris College": [
+    0
+  ],
+  "Alderson Broaddus College": [
+    0
+  ],
+  "Benjamin Franklin Institute of Technology": [
+    0
+  ],
+  "Cleary University": [
+    0
+  ],
+  "Wilmington University": [
+    0
+  ],
+  "Ottawa University Ottawa": [
+    4,
+    3,
+    2,
+    6,
+    2
+  ],
+  "University of Saint Joseph": [
+    0
+  ],
+  "Blackburn College": [
+    5,
+    4,
+    8,
+    4,
+    3
+  ],
+  "The College of Saint Scholastica": [
+    0
+  ],
+  "Park University": [
+    0
+  ],
+  "Randolph College": [
+    6,
+    4,
+    10,
+    4,
+    7
+  ],
+  "McPherson College": [
+    4,
+    4,
+    5,
+    4,
+    2
+  ],
+  "San Diego Christian College": [
+    4,
+    5,
+    4,
+    3,
+    1
+  ],
+  "Blue Mountain College": [
+    0
+  ],
+  "Nazareth College": [
+    0
+  ],
+  "The King's College": [
+    0
+  ],
+  "Southwest Baptist University": [
+    0,
+    4,
+    5,
+    5,
+    0
+  ],
+  "University of Pikeville": [
+    0
+  ],
+  "Boston Architectural College": [
+    0
+  ],
+  "King's University": [
+    0
+  ],
+  "Geneva College": [
+    0
+  ],
+  "Christian Brothers University": [
+    6,
+    7,
+    7,
+    5,
+    8
+  ],
+  "Bluffton University": [
+    5,
+    4,
+    7,
+    5,
+    6
+  ],
+  "Columbus College of Art and Design": [
+    0,
+    5,
+    9,
+    4,
+    0
+  ],
+  "Southwestern Assemblies of God University": [
+    3,
+    3,
+    4,
+    3,
+    1
+  ],
+  "Miles College": [
+    0
+  ],
+  "Kentucky Wesleyan College": [
+    4,
+    5,
+    4,
+    4,
+    3
+  ],
+  "Trinity International University": [
+    0
+  ],
+  "West Virginia Wesleyan College": [
+    4,
+    3,
+    5,
+    4,
+    3
+  ],
+  "Marygrove College": [
+    0
+  ],
+  "Franklin Pierce University": [
+    4,
+    3,
+    5,
+    4,
+    3
+  ],
+  "Cleveland Institute of Art": [
+    6,
+    8,
+    9,
+    4,
+    4
+  ],
+  "North American College": [
+    0
+  ],
+  "William Jessup University": [
+    6,
+    6,
+    6,
+    7,
+    5
+  ],
+  "American Jewish University": [
+    0
+  ],
+  "Concordia University Saint Paul": [
+    0
+  ],
+  "Evangel University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Kettering College": [
+    0
+  ],
+  "Embry Riddle Aeronautical University Worldwide": [
+    6,
+    9,
+    2,
+    6,
+    1
+  ],
+  "Georgia Christian University": [
+    0
+  ],
+  "Cabarrus College of Health Sciences": [
+    7,
+    4,
+    9,
+    0,
+    7
+  ],
+  "Wisconsin Lutheran College": [
+    6,
+    7,
+    7,
+    6,
+    8
+  ],
+  "Southern California Institute of Architecture": [
+    7,
+    5,
+    9,
+    6,
+    8
+  ],
+  "Hope International University": [
+    4,
+    5,
+    3,
+    3,
+    1
+  ],
+  "Cornish College of the Arts": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "College of Saint Benedict": [
+    7,
+    6,
+    8,
+    8,
+    8
+  ],
+  "University of Mary": [
+    7,
+    7,
+    6,
+    7,
+    8
+  ],
+  "Keuka College": [
+    5,
+    4,
+    5,
+    6,
+    4
+  ],
+  "Midland University": [
+    4,
+    5,
+    4,
+    4,
+    3
+  ],
+  "Pacific States University": [
+    0
+  ],
+  "Bethany College": [
+    0
+  ],
+  "Tougaloo College": [
+    3,
+    3,
+    3,
+    3,
+    2
+  ],
+  "Multnomah University": [
+    5,
+    8,
+    4,
+    4,
+    4
+  ],
+  "Hiwassee College": [
+    0
+  ],
+  "Milwaukee Institute of Art & Design": [
+    0
+  ],
+  "College of Mount St. Joseph": [
+    6,
+    5,
+    8,
+    5,
+    8
+  ],
+  "Talladega College": [
+    0
+  ],
+  "Brenau University": [
+    5,
+    4,
+    6,
+    4,
+    4
+  ],
+  "Buena Vista University": [
+    5,
+    5,
+    4,
+    6,
+    8
+  ],
+  "Campbellsville University": [
+    0,
+    4,
+    3,
+    4,
+    0
+  ],
+  "Culver Stockton College": [
+    3,
+    4,
+    2,
+    4,
+    1
+  ],
+  "Metropolitan College of New York": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Rockford University": [
+    0
+  ],
+  "University of Saint Mary": [
+    5,
+    4,
+    5,
+    6,
+    4
+  ],
+  "Newbury College Brookline": [
+    0
+  ],
+  "Saint Thomas Aquinas College": [
+    6,
+    6,
+    5,
+    6,
+    7
+  ],
+  "New England Institute of Technology": [
+    0
+  ],
+  "Presentation College": [
+    0
+  ],
+  "City College Fort Lauderdale": [
+    0
+  ],
+  "Everglades University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Judson University": [
+    5,
+    4,
+    7,
+    5,
+    5
+  ],
+  "Trinity Christian College": [
+    7,
+    6,
+    8,
+    7,
+    10
+  ],
+  "Clarke University": [
+    7,
+    6,
+    7,
+    7,
+    7
+  ],
+  "Simpson College": [
+    6,
+    6,
+    8,
+    6,
+    9
+  ],
+  "William Penn University": [
+    4,
+    3,
+    3,
+    4,
+    2
+  ],
+  "Spalding University": [
+    5,
+    2,
+    7,
+    5,
+    2
+  ],
+  "Missouri Valley College": [
+    3,
+    4,
+    2,
+    2,
+    1
+  ],
+  "Lake Erie College": [
+    4,
+    5,
+    4,
+    4,
+    3
+  ],
+  "Malone University": [
+    6,
+    6,
+    5,
+    7,
+    6
+  ],
+  "Lincoln Memorial University": [
+    6,
+    6,
+    8,
+    6,
+    8
+  ],
+  "Wilson College": [
+    4,
+    2,
+    4,
+    4,
+    1
+  ],
+  "Lindsey Wilson College": [
+    0
+  ],
+  "Thomas More University": [
+    0
+  ],
+  "Bryan College": [
+    0
+  ],
+  "Wiley College": [
+    0
+  ],
+  "Green Mountain College": [
+    0
+  ],
+  "Cottey College": [
+    7,
+    5,
+    10,
+    0,
+    9
+  ],
+  "Daemen College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Knox College": [
+    7,
+    8,
+    9,
+    5,
+    9
+  ],
+  "Watkins College of Art Design & Film": [
+    0
+  ],
+  "Amridge University": [
+    0
+  ],
+  "Sterling College": [
+    0
+  ],
+  "Allegheny Wesleyan College": [
+    0
+  ],
+  "Saint Norbert College": [
+    0
+  ],
+  "Iowa Wesleyan College": [
+    0
+  ],
+  "Capitol College": [
+    0
+  ],
+  "The Master's College and Seminary": [
+    0
+  ],
+  "Dordt College": [
+    6,
+    7,
+    6,
+    6,
+    5
+  ],
+  "Palmer College of Chiropractic Davenport": [
+    0
+  ],
+  "Concordia University Seward": [
+    5,
+    5,
+    3,
+    5,
+    3
+  ],
+  "Villa Maria College": [
+    4,
+    2,
+    6,
+    0,
+    3
+  ],
+  "Northland College": [
+    6,
+    7,
+    8,
+    3,
+    6
+  ],
+  "College of Our Lady of the Elms": [
+    7,
+    7,
+    6,
+    7,
+    8
+  ],
+  "Missouri Baptist University": [
+    3,
+    5,
+    1,
+    3,
+    1
+  ],
+  "Lourdes University": [
+    0
+  ],
+  "University of the Ozarks": [
+    5,
+    5,
+    7,
+    4,
+    6
+  ],
+  "Coleman University": [
+    0
+  ],
+  "The College of Idaho": [
+    0
+  ],
+  "National Louis University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Fontbonne University": [
+    5,
+    3,
+    8,
+    5,
+    6
+  ],
+  "Ecclesia College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Midway University": [
+    0
+  ],
+  "Mount Ida College": [
+    0
+  ],
+  "Pacific Northwest College of Art": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Thomas University": [
+    0
+  ],
+  "Boricua College": [
+    0
+  ],
+  "Urbana University": [
+    0
+  ],
+  "Trinity Baptist College": [
+    0
+  ],
+  "Bacone College": [
+    0
+  ],
+  "Oklahoma Christian University": [
+    4,
+    5,
+    3,
+    5,
+    2
+  ],
+  "Mount Vernon Nazarene University": [
+    5,
+    5,
+    5,
+    6,
+    5
+  ],
+  "The Boston Conservatory": [
+    0
+  ],
+  "Doane University": [
+    0
+  ],
+  "Nebraska Wesleyan University": [
+    6,
+    6,
+    4,
+    7,
+    7
+  ],
+  "Williams Baptist College": [
+    0
+  ],
+  "Saint Joseph's College of Maine": [
+    0
+  ],
+  "University of Rio Grande": [
+    0
+  ],
+  "Freed Hardeman University": [
+    4,
+    5,
+    5,
+    4,
+    5
+  ],
+  "Northwest Nazarene University": [
+    0
+  ],
+  "Friends University": [
+    4,
+    4,
+    3,
+    5,
+    2
+  ],
+  "Bay Path University": [
+    0
+  ],
+  "William Woods University": [
+    0,
+    7,
+    5,
+    5,
+    0
+  ],
+  "Azusa Pacific Online University": [
+    0
+  ],
+  "Southwestern Christian College": [
+    0
+  ],
+  "Voorhees College": [
+    0
+  ],
+  "Manhattan School of Music": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Mount Carmel College of Nursing": [
+    7,
+    4,
+    8,
+    9,
+    8
+  ],
+  "Oklahoma Wesleyan University": [
+    5,
+    3,
+    3,
+    7,
+    2
+  ],
+  "Oregon College of Art and Craft": [
+    0
+  ],
+  "Mount Marty College": [
+    5,
+    5,
+    5,
+    4,
+    3
+  ],
+  "Wheeling University": [
+    0
+  ],
+  "The University of the Arts": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Davis & Elkins College": [
+    0
+  ],
+  "Apex School of Theology": [
+    0
+  ],
+  "Lincoln University": [
+    0
+  ],
+  "Providence Christian College": [
+    0
+  ],
+  "Moore College of Art and Design": [
+    7,
+    9,
+    9,
+    4,
+    2
+  ],
+  "Sojourner Douglass College": [
+    0
+  ],
+  "Hillsdale Free Will Baptist College": [
+    0
+  ],
+  "Beulah Heights University": [
+    0
+  ],
+  "Greenville University": [
+    0
+  ],
+  "University of Western States": [
+    0
+  ],
+  "Dakota Wesleyan University": [
+    5,
+    9,
+    4,
+    4,
+    5
+  ],
+  "Herzing University Winter Park": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Harrisburg University of Science and Technology": [
+    0
+  ],
+  "Briar Cliff University": [
+    0
+  ],
+  "University of the Cumberlands": [
+    4,
+    4,
+    1,
+    5,
+    6
+  ],
+  "Martin Luther College": [
+    6,
+    6,
+    7,
+    6,
+    5
+  ],
+  "Rivier College": [
+    0
+  ],
+  "Sierra Nevada University": [
+    0
+  ],
+  "Williamson Christian College": [
+    0
+  ],
+  "Paul Smiths College of Arts and Science": [
+    0
+  ],
+  "Roberts Wesleyan College": [
+    7,
+    6,
+    7,
+    7,
+    8
+  ],
+  "Tennessee Wesleyan College": [
+    5,
+    4,
+    5,
+    5,
+    6
+  ],
+  "Ozark Christian College": [
+    0
+  ],
+  "Kansas Wesleyan University": [
+    0,
+    5,
+    5,
+    4,
+    0
+  ],
+  "Marylhurst University": [
+    0
+  ],
+  "Bellin College": [
+    0,
+    4,
+    8,
+    10,
+    0
+  ],
+  "Southern Wesleyan University": [
+    0,
+    5,
+    4,
+    4,
+    0
+  ],
+  "King College": [
+    0
+  ],
+  "Selma University": [
+    0
+  ],
+  "Graceland University Lamoni": [
+    5,
+    4,
+    6,
+    6,
+    9
+  ],
+  "University of the Southwest": [
+    0
+  ],
+  "Oklahoma Baptist University": [
+    6,
+    8,
+    6,
+    5,
+    5
+  ],
+  "American Conservatory Theater": [
+    0
+  ],
+  "Boston Baptist College": [
+    0,
+    6,
+    5,
+    0,
+    0
+  ],
+  "Rocky Mountain College": [
+    5,
+    6,
+    6,
+    5,
+    7
+  ],
+  "University of Sioux Falls": [
+    0,
+    5,
+    3,
+    6,
+    0
+  ],
+  "Southern Vermont College": [
+    0
+  ],
+  "Martin University": [
+    0
+  ],
+  "Christian Life College": [
+    0
+  ],
+  "Brescia University": [
+    5,
+    6,
+    7,
+    2,
+    7
+  ],
+  "Kuyper College": [
+    5,
+    5,
+    7,
+    4,
+    1
+  ],
+  "Mid Atlantic Christian University": [
+    4,
+    4,
+    7,
+    1,
+    1
+  ],
+  "Southern Adventist University": [
+    6,
+    7,
+    5,
+    5,
+    3
+  ],
+  "W L Bonner College": [
+    0
+  ],
+  "Martin Methodist College": [
+    0
+  ],
+  "Virginia University of Lynchburg": [
+    0
+  ],
+  "Visible Music College": [
+    5,
+    7,
+    8,
+    2,
+    1
+  ],
+  "Alaska Pacific University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Alice Lloyd College": [
+    4,
+    3,
+    3,
+    5,
+    2
+  ],
+  "Bethany Lutheran College": [
+    6,
+    7,
+    7,
+    5,
+    7
+  ],
+  "Calvary Bible College and Theological Seminary": [
+    0
+  ],
+  "Thomas More College of Liberal Arts": [
+    0
+  ],
+  "Carolina Christian College": [
+    0
+  ],
+  "Ursuline College": [
+    6,
+    5,
+    9,
+    6,
+    10
+  ],
+  "Southwestern Adventist University": [
+    0
+  ],
+  "The Baptist College of Florida": [
+    5,
+    5,
+    8,
+    3,
+    8
+  ],
+  "Saint Josephs College": [
+    5,
+    4,
+    0,
+    5,
+    6
+  ],
+  "Kentucky Christian University": [
+    4,
+    4,
+    4,
+    3,
+    2
+  ],
+  "Goddard College": [
+    0
+  ],
+  "Shorter University College of Adult & Professional Programs": [
+    0
+  ],
+  "University of the West": [
+    0
+  ],
+  "Ohio Christian University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Mount Aloysius College": [
+    4,
+    4,
+    4,
+    4,
+    2
+  ],
+  "Mount Mary College": [
+    4,
+    3,
+    7,
+    4,
+    5
+  ],
+  "Saint John Vianney College Seminary": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Mercy College of Health Sciences": [
+    6,
+    3,
+    7,
+    0,
+    2
+  ],
+  "American Baptist College": [
+    0
+  ],
+  "Jefferson College of Health Sciences": [
+    0
+  ],
+  "Columbia College Hollywood": [
+    0
+  ],
+  "Remington College Tampa Campus": [
+    0
+  ],
+  "Moody Bible Institute": [
+    0,
+    5,
+    4,
+    0,
+    0
+  ],
+  "University of Valley Forge": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Northeast Catholic College": [
+    0
+  ],
+  "Lancaster Bible College": [
+    5,
+    6,
+    3,
+    5,
+    2
+  ],
+  "Herzing University Kenosha": [
+    0
+  ],
+  "Saint Augustine College": [
+    0
+  ],
+  "Ranken Technical College": [
+    0
+  ],
+  "Pennsylvania Academy of the Fine Arts": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Baker College of Clinton Township": [
+    0
+  ],
+  "Polytechnic University of Puerto Rico Orlando": [
+    0
+  ],
+  "Our Lady of Holy Cross College": [
+    0
+  ],
+  "Bryn Athyn College of the New Church": [
+    6,
+    7,
+    9,
+    0,
+    8
+  ],
+  "Barclay College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Maine College of Art": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "New Hope Christian College": [
+    0
+  ],
+  "Tennessee Temple University": [
+    0
+  ],
+  "Pennsylvania College of Health Sciences": [
+    7,
+    6,
+    7,
+    0,
+    1
+  ],
+  "Herzing University Birmingham": [
+    0
+  ],
+  "Trinity International University Florida": [
+    0
+  ],
+  "Grace Christian University": [
+    0
+  ],
+  "Davis College": [
+    0
+  ],
+  "New York College of Health Professions": [
+    0
+  ],
+  "American Indian College of the Assemblies of God Inc": [
+    0
+  ],
+  "Mercy College of Ohio": [
+    0
+  ],
+  "Marlboro College": [
+    0
+  ],
+  "Pine Manor College": [
+    0
+  ],
+  "Judson College": [
+    0
+  ],
+  "Central Baptist College": [
+    4,
+    4,
+    3,
+    3,
+    2
+  ],
+  "California Christian College": [
+    0
+  ],
+  "Methodist College of Nursing": [
+    0
+  ],
+  "Saint Mary of the Woods College": [
+    5,
+    3,
+    8,
+    4,
+    6
+  ],
+  "Tabor College": [
+    5,
+    4,
+    4,
+    6,
+    6
+  ],
+  "Sacred Heart Major Seminary": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Central Methodist University College of Liberal Arts & Sciences": [
+    0
+  ],
+  "Saint Louis Christian College": [
+    0
+  ],
+  "Silver Lake College of the Holy Family": [
+    0
+  ],
+  "City College Miami": [
+    0
+  ],
+  "Grace College of Divinity": [
+    0
+  ],
+  "Lincoln Christian University": [
+    0
+  ],
+  "East West University": [
+    0
+  ],
+  "Carver Bible College": [
+    0
+  ],
+  "Zion Bible College": [
+    0
+  ],
+  "Herzing University Madison": [
+    0
+  ],
+  "Baker College of Allen Park": [
+    0
+  ],
+  "Horizon College San Diego": [
+    0
+  ],
+  "Boise Bible College": [
+    4,
+    4,
+    8,
+    3,
+    3
+  ],
+  "Baker College of Muskegon": [
+    0
+  ],
+  "Herzing University   Akron Campus": [
+    0
+  ],
+  "Bon Secours Memorial College of Nursing": [
+    0
+  ],
+  "Carolina Bible College": [
+    0
+  ],
+  "San Francisco Conservatory of Music": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "MidAmerica Nazarene University": [
+    5,
+    4,
+    5,
+    7,
+    3
+  ],
+  "Centenary College of Louisiana": [
+    6,
+    8,
+    8,
+    5,
+    8
+  ],
+  "Laboure College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Longy School of Music": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Great Lakes Christian College": [
+    0
+  ],
+  "Mid America Christian University": [
+    0
+  ],
+  "World Mission University": [
+    0
+  ],
+  "Carlos Albizu University Miami": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Luther Rice University": [
+    0
+  ],
+  "Maharishi International University": [
+    0
+  ],
+  "Herzing University Minneapolis": [
+    0
+  ],
+  "Cleveland Chiropractic College": [
+    0
+  ],
+  "Heritage University": [
+    0
+  ],
+  "Baker College of Auburn Hills": [
+    0
+  ],
+  "New Hampshire Institute of Art": [
+    0
+  ],
+  "Southeastern Bible College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Crowley's Ridge College": [
+    0
+  ],
+  "Bethel College North Newton": [
+    4,
+    4,
+    5,
+    5,
+    2
+  ],
+  "Central Christian College of Kansas": [
+    0
+  ],
+  "Hannibal LaGrange University": [
+    6,
+    8,
+    5,
+    4,
+    5
+  ],
+  "Trocaire College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Jamestown College": [
+    0
+  ],
+  "Bushnell University": [
+    0
+  ],
+  "Widener University Delaware Campus": [
+    0
+  ],
+  "Goodwin College": [
+    0
+  ],
+  "Corcoran College of Art and Design": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Mid Continent University": [
+    0
+  ],
+  "Thomas College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "School of the Museum of Fine Arts Boston": [
+    0
+  ],
+  "University of Great Falls": [
+    0
+  ],
+  "Mount Angel Seminary": [
+    0
+  ],
+  "Clarks Summit University": [
+    0
+  ],
+  "College of St Joseph": [
+    0
+  ],
+  "Maranatha Baptist Bible College": [
+    0
+  ],
+  "College of Biblical Studies Houston": [
+    0
+  ],
+  "Faith Evangelical College & Seminary": [
+    0
+  ],
+  "Arkansas Baptist College": [
+    0
+  ],
+  "Our Lady of the Lake College": [
+    5,
+    4,
+    8,
+    5,
+    4
+  ],
+  "Clarkson College": [
+    0,
+    4,
+    6,
+    7,
+    0
+  ],
+  "Gratz College": [
+    0
+  ],
+  "Simmons College of Kentucky": [
+    0
+  ],
+  "College of the Atlantic": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "College of Saint Mary": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Ohio Valley University": [
+    0
+  ],
+  "Alaska Bible College": [
+    0
+  ],
+  "Philander Smith College": [
+    0
+  ],
+  "Hobe Sound Bible College": [
+    0
+  ],
+  "Emmaus Bible College": [
+    0
+  ],
+  "Salish Kootenai College": [
+    0
+  ],
+  "Jewish Theological Seminary of America": [
+    0
+  ],
+  "International Baptist College": [
+    0
+  ],
+  "Baptist University of the Americas": [
+    0
+  ],
+  "Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Manhattan Christian College": [
+    0
+  ],
+  "Baker College of Owosso": [
+    0
+  ],
+  "BryanLGH College of Health Sciences": [
+    0
+  ],
+  "Vaughn College of Aeronautics and Technology": [
+    0
+  ],
+  "O'More College of Design": [
+    0
+  ],
+  "Herzing University Brookfield": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Epic Bible College": [
+    0
+  ],
+  "Oak Hills Christian College": [
+    0
+  ],
+  "Pennsylvania College of Art and Design": [
+    0
+  ],
+  "City College Gainesville": [
+    0
+  ],
+  "AIB College of Business": [
+    0
+  ],
+  "Baptist Missionary Association Theological Seminary": [
+    0
+  ],
+  "South Florida Bible College and Theological Seminary": [
+    0
+  ],
+  "Crossroads Bible College": [
+    0
+  ],
+  "Bais Medrash Toras Chesed": [
+    0
+  ],
+  "Yeshivat Mikdash Melech": [
+    0
+  ],
+  "Montserrat College of Art": [
+    0
+  ],
+  "Southeastern Baptist College": [
+    0
+  ],
+  "Shepherds Theological Seminary": [
+    0
+  ],
+  "Talmudic College of Florida": [
+    0
+  ],
+  "Allen College": [
+    0
+  ],
+  "Unity College": [
+    0
+  ],
+  "Central Christian College of the Bible": [
+    0
+  ],
+  "Bais Medrash Elyon": [
+    0
+  ],
+  "Family of Faith College": [
+    0
+  ],
+  "Huntsville Bible College": [
+    0
+  ],
+  "Lyme Academy College of Fine Arts": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Grace University": [
+    0
+  ],
+  "Nebraska Methodist College of Nursing & Allied Health": [
+    0
+  ],
+  "Cleveland Institute of Music": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Peirce College": [
+    0
+  ],
+  "Yeshivah Gedolah Rabbinical College": [
+    0
+  ],
+  "Baker College Center for Graduate Studies": [
+    0
+  ],
+  "Southern California Seminary": [
+    0
+  ],
+  "Cincinnati College of Mortuary Science": [
+    0
+  ],
+  "Beth Hamedrash Shaarei Yosher Institute": [
+    0
+  ],
+  "Shasta Bible College and Graduate School": [
+    0
+  ],
+  "Kentucky Mountain Bible College": [
+    0
+  ],
+  "Saint John's Seminary": [
+    0
+  ],
+  "Sinte Gleska University": [
+    0
+  ],
+  "Baker College of Port Huron": [
+    0
+  ],
+  "Maple Springs Baptist Bible College and Seminary": [
+    0
+  ],
+  "Polytechnic University of Puerto Rico Miami Campus": [
+    0
+  ],
+  "Heritage Christian University": [
+    0
+  ],
+  "Hebrew Theological College": [
+    0,
+    3,
+    10,
+    1,
+    0
+  ],
+  "Midwestern Baptist Theological Seminary": [
+    0,
+    6,
+    1,
+    0,
+    0
+  ],
+  "Heritage Bible College": [
+    0
+  ],
+  "Baker College of Cadillac": [
+    0
+  ],
+  "Messenger College": [
+    0
+  ],
+  "Donnelly College": [
+    0
+  ],
+  "Hellenic College Holy Cross Greek Orthodox School of Theology": [
+    0
+  ],
+  "Crossroads College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Northwestern Health Sciences University": [
+    0
+  ],
+  "Baptist Bible College and Graduate School": [
+    0
+  ],
+  "Conception Seminary College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Rabbinical College Telshe": [
+    0
+  ],
+  "Southern Nazarene University": [
+    0
+  ],
+  "Southwestern Christian University": [
+    0
+  ],
+  "Free Will Baptist Bible College": [
+    0
+  ],
+  "Union Institute & University": [
+    0
+  ],
+  "Nazarene Bible College": [
+    0
+  ],
+  "Trinity College of Nursing and Health Sciences": [
+    0
+  ],
+  "Divine Word College": [
+    0
+  ],
+  "Central Baptist Theological Seminary": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Baker College of Flint": [
+    0
+  ],
+  "Cox College": [
+    0
+  ],
+  "Central Bible College": [
+    0
+  ],
+  "Nebraska Christian College": [
+    0
+  ],
+  "Rabbinical College of America": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Maria College of Albany": [
+    6,
+    3,
+    9,
+    0,
+    5
+  ],
+  "Rabbinical Seminary of America": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Yeshiva Gedolah of Greater Detroit": [
+    0
+  ],
+  "Remington College Honolulu Campus": [
+    0
+  ],
+  "Remington College Colorado Springs Campus": [
+    0
+  ],
+  "Herzing University Kenner": [
+    0
+  ],
+  "Mesivta Keser Torah": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "The New England Conservatory of Music": [
+    0
+  ],
+  "Central Yeshiva Tomchei Tmimim Lubavitz": [
+    0
+  ],
+  "Pontifical College Josephinum": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Talmudical Yeshiva of Philadelphia": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Yeshivas Novominsk": [
+    0
+  ],
+  "Uta Mesivta of Kiryas Joel": [
+    0
+  ],
+  "Turtle Mountain Community College": [
+    0
+  ],
+  "Saint Charles Borromeo Seminary Overbrook": [
+    0
+  ],
+  "Yeshivas Be'er Yitzchok": [
+    0
+  ],
+  "Humphreys College Stockton and Modesto Campuses": [
+    0
+  ],
+  "Clear Creek Baptist Bible College": [
+    0
+  ],
+  "Gods Bible School and College": [
+    0
+  ],
+  "New Life Theological Seminary": [
+    0
+  ],
+  "Dell'Arte International School of Physical Theatre": [
+    0
+  ],
+  "Talmudical Institute of Upstate New York": [
+    0
+  ],
+  "Yeshivath Zichron Moshe": [
+    0
+  ],
+  "Saint Gregorys University": [
+    0
+  ],
+  "Appalachian Bible College": [
+    4,
+    4,
+    5,
+    4,
+    2
+  ],
+  "SUM Bible College and Theological Seminary": [
+    0
+  ],
+  "Averett University Non Traditional Programs": [
+    0
+  ],
+  "Saint Joseph Seminary College": [
+    0
+  ],
+  "Yeshivath Viznitz": [
+    0
+  ],
+  "Holy Apostles College and Seminary": [
+    0
+  ],
+  "Ner Israel Rabbinical College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Sh'or Yoshuv Rabbinical College": [
+    0
+  ],
+  "United Talmudical Seminary": [
+    0
+  ],
+  "Trinity Bible College": [
+    0
+  ],
+  "Yeshivath Beth Moshe": [
+    0
+  ],
+  "New England School of Communications": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "College of Menominee Nation": [
+    0
+  ],
+  "Beis Medrash Heichal Dovid": [
+    0
+  ],
+  "Herzing University Toledo": [
+    0
+  ],
+  "Telshe Yeshiva Chicago": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "VanderCook College of Music": [
+    5,
+    3,
+    9,
+    3,
+    6
+  ],
+  "Faith Baptist Bible College and Theological Seminary": [
+    0
+  ],
+  "Talmudical Academy New Jersey": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Mesivta Torah Vodaath Rabbinical Seminary": [
+    0
+  ],
+  "Mirrer Yeshiva Cent Institute": [
+    0
+  ],
+  "Ohr Hameir Theological Seminary": [
+    0
+  ],
+  "Yeshiva of Nitra Rabbinical College": [
+    0
+  ],
+  "Tri State Bible College": [
+    0
+  ],
+  "Yeshiva Toras Chaim": [
+    0
+  ],
+  "Kenrick Glennon Seminary": [
+    0
+  ],
+  "Mid America College of Funeral Service": [
+    0
+  ],
+  "Beth Hatalmud Rabbinical College": [
+    0
+  ],
+  "Kol Yaakov Torah Center": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Rabbinical Academy Mesivta Rabbi Chaim Berlin": [
+    0
+  ],
+  "Rabbi Jacob Joseph School": [
+    0
+  ],
+  "Yeshiva of the Telshe Alumni": [
+    0
+  ],
+  "Kehilath Yakov Rabbinical Seminary": [
+    0
+  ],
+  "Machzikei Hadath Rabbinical College": [
+    0
+  ],
+  "Mesivta of Eastern Parkway Yeshiva Zichron Meilech": [
+    0
+  ],
+  "Mesivtha Tifereth Jerusalem of America": [
+    0
+  ],
+  "Rabbinical College of Ch'san Sofer New York": [
+    0
+  ],
+  "Torah Temimah Talmudical Seminary": [
+    0
+  ],
+  "Yeshiva Karlin Stolin": [
+    0
+  ],
+  "Yeshiva Derech Chaim": [
+    0
+  ],
+  "Baker College of Jackson": [
+    0
+  ],
+  "Talmudical Seminary of Bobov": [
+    0
+  ],
+  "United States Sports Academy": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Ottawa University Phoenix": [
+    0
+  ],
+  "Berkeley School of Theology": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "California Institute of Integral Studies": [
+    0
+  ],
+  "Haven University": [
+    0
+  ],
+  "Casa Loma College Los Angeles": [
+    0
+  ],
+  "Golden Gate University": [
+    0
+  ],
+  "Latin American Bible Institute": [
+    0
+  ],
+  "Loma Linda University": [
+    0
+  ],
+  "National University": [
+    0
+  ],
+  "San Francisco Bay University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Palo Alto University": [
+    0
+  ],
+  "Pacific Oaks College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Samuel Merritt University": [
+    0
+  ],
+  "Keiser University Ft Lauderdale": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Adler University": [
+    0
+  ],
+  "American Islamic College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "The Chicago School of Professional Psychology at Chicago": [
+    0
+  ],
+  "Principia College": [
+    0
+  ],
+  "Rush University": [
+    0
+  ],
+  "Oak Point University": [
+    0
+  ],
+  "Kansas Christian College": [
+    0
+  ],
+  "Berea College": [
+    8,
+    8,
+    10,
+    0,
+    10
+  ],
+  "The Southern Baptist Theological Seminary": [
+    0
+  ],
+  "New Orleans Baptist Theological Seminary": [
+    0
+  ],
+  "Hult International Business School": [
+    0
+  ],
+  "William James College": [
+    0
+  ],
+  "Hillsdale College": [
+    10,
+    10,
+    10,
+    0,
+    10
+  ],
+  "Walsh College": [
+    0
+  ],
+  "Wesley Biblical Seminary": [
+    0
+  ],
+  "Logan University": [
+    6,
+    4,
+    5,
+    0,
+    6
+  ],
+  "Yellowstone Christian College": [
+    0
+  ],
+  "Summit Christian College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Rabbinical College Bobover Yeshiva Bnei Zion": [
+    0
+  ],
+  "Rabbinical College Beth Shraga": [
+    0
+  ],
+  "Rabbinical Seminary M'kor Chaim": [
+    0
+  ],
+  "Rabbinical College of Long Island": [
+    0
+  ],
+  "Talmudical Seminary Oholei Torah": [
+    0
+  ],
+  "Excelsior University": [
+    0
+  ],
+  "Webb Institute": [
+    10,
+    10,
+    10,
+    0,
+    10
+  ],
+  "Yeshiva Shaar Hatorah": [
+    0
+  ],
+  "High Point University": [
+    6,
+    8,
+    5,
+    0,
+    1
+  ],
+  "Southeastern Baptist Theological Seminary": [
+    5,
+    6,
+    4,
+    0,
+    5
+  ],
+  "Athenaeum of Ohio": [
+    0
+  ],
+  "American College of Financial Services": [
+    0
+  ],
+  "Curtis Institute of Music": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Grove City College": [
+    8,
+    8,
+    8,
+    0,
+    5
+  ],
+  "Thomas Jefferson University": [
+    9,
+    8,
+    9,
+    0,
+    10
+  ],
+  "Kairos University": [
+    0
+  ],
+  "Pentecostal Theological Seminary": [
+    0
+  ],
+  "Amberton University": [
+    0
+  ],
+  "Hallmark University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Centra College": [
+    0
+  ],
+  "Southeastern Free Will Baptist Bible College": [
+    0
+  ],
+  "Bastyr University": [
+    0
+  ],
+  "Parker University": [
+    0
+  ],
+  "Antioch University Los Angeles": [
+    0
+  ],
+  "Antioch University Santa Barbara": [
+    0
+  ],
+  "Antioch University": [
+    0
+  ],
+  "Ecumenical Theological Seminary": [
+    0
+  ],
+  "Montana Bible College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Yeshiva Gedolah Imrei Yosef D'spinka": [
+    0
+  ],
+  "Rabbinical College of Ohr Shimon Yisroel": [
+    0
+  ],
+  "Pacific Bible College": [
+    0
+  ],
+  "Trine University Regional/Non Traditional Campuses": [
+    0
+  ],
+  "Yeshiva D'monsey Rabbinical College": [
+    0
+  ],
+  "Ottawa University Milwaukee": [
+    0
+  ],
+  "Western Governors University": [
+    0
+  ],
+  "New Saint Andrews College": [
+    0
+  ],
+  "Yeshiva Shaarei Torah of Rockland": [
+    0
+  ],
+  "Patrick Henry College": [
+    7,
+    8,
+    6,
+    0,
+    6
+  ],
+  "Yeshiva of Machzikai Hadas": [
+    0
+  ],
+  "The Chicago School of Professional Psychology at Los Angeles": [
+    0
+  ],
+  "Homestead Schools": [
+    0
+  ],
+  "City Vision University": [
+    0
+  ],
+  "Touro University Nevada": [
+    0
+  ],
+  "Fairfax University of America": [
+    0
+  ],
+  "Ottawa University Surprise": [
+    4,
+    3,
+    3,
+    0,
+    1
+  ],
+  "The University of America": [
+    0
+  ],
+  "Criswell College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Grace Mission University": [
+    0
+  ],
+  "Mid South Christian College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Grace School of Theology": [
+    0
+  ],
+  "Antioch College": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Ana G. Mendez University": [
+    0
+  ],
+  "Minerva University": [
+    0
+  ],
+  "Bethlehem College & Seminary": [
+    0
+  ],
+  "Valor Christian College": [
+    0
+  ],
+  "California Jazz Conservatory": [
+    0
+  ],
+  "Milligan University": [
+    6,
+    7,
+    7,
+    0,
+    9
+  ],
+  "Claremont Lincoln University": [
+    0
+  ],
+  "University of Saint Katherine": [
+    0
+  ],
+  "University of the People": [
+    0
+  ],
+  "Carolina University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "Presbyterian Theological Seminary in America": [
+    0
+  ],
+  "America Evangelical University": [
+    0
+  ],
+  "Bolivar Technical College": [
+    0
+  ],
+  "Reformed University": [
+    0
+  ],
+  "The Chicago School of Professional Psychology at San Diego": [
+    0
+  ],
+  "Union Bible College": [
+    0
+  ],
+  "Champion Christian College": [
+    0
+  ],
+  "The Continents States University": [
+    0
+  ],
+  "Institute of Lutheran Theology": [
+    0
+  ],
+  "College Unbound": [
+    0
+  ],
+  "Christ Mission College": [
+    0
+  ],
+  "Urshan College": [
+    2,
+    3,
+    1,
+    0,
+    1
+  ],
+  "California Arts University": [
+    0
+  ],
+  "Oak Valley College": [
+    0
+  ],
+  "Indian Bible College": [
+    0
+  ],
+  "Pathways College": [
+    0
+  ],
+  "Agape College of Business and Science": [
+    0
+  ],
+  "Lakewood University": [
+    0
+  ],
+  "NewU University": [
+    0
+  ],
+  "Remington College Knoxville": [
+    0
+  ],
+  "Great Northern University": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}
